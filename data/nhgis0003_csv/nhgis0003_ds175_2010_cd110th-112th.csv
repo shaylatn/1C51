@@ -1,0 +1,438 @@
+GISJOIN,YEAR,STUSAB,REGIONA,DIVISIONA,STATE,STATEA,COUNTYA,COUSUBA,PLACEA,AIANHHA,ANRCA,CBSAA,CSAA,METDIVA,NECTAA,CNECTAA,NECTADIVA,UAA,CDCURRA,SDELMA,SDSECA,SDUNIA,PCI,PUMAA,GEOID,NAME_E,I25E001,NAME_M,I25M001
+"G01001","2010","AL",,,"Alabama","01",,,,,,,,,,,,,"01",,,,,,"50000US0101","Congressional District 1 (111th Congress), Alabama",41172,"Congressional District 1 (111th Congress), Alabama",1406
+"G01002","2010","AL",,,"Alabama","01",,,,,,,,,,,,,"02",,,,,,"50000US0102","Congressional District 2 (111th Congress), Alabama",40567,"Congressional District 2 (111th Congress), Alabama",790
+"G01003","2010","AL",,,"Alabama","01",,,,,,,,,,,,,"03",,,,,,"50000US0103","Congressional District 3 (111th Congress), Alabama",35452,"Congressional District 3 (111th Congress), Alabama",1685
+"G01004","2010","AL",,,"Alabama","01",,,,,,,,,,,,,"04",,,,,,"50000US0104","Congressional District 4 (111th Congress), Alabama",36715,"Congressional District 4 (111th Congress), Alabama",1188
+"G01005","2010","AL",,,"Alabama","01",,,,,,,,,,,,,"05",,,,,,"50000US0105","Congressional District 5 (111th Congress), Alabama",45856,"Congressional District 5 (111th Congress), Alabama",1341
+"G01006","2010","AL",,,"Alabama","01",,,,,,,,,,,,,"06",,,,,,"50000US0106","Congressional District 6 (111th Congress), Alabama",55559,"Congressional District 6 (111th Congress), Alabama",1795
+"G01007","2010","AL",,,"Alabama","01",,,,,,,,,,,,,"07",,,,,,"50000US0107","Congressional District 7 (111th Congress), Alabama",31047,"Congressional District 7 (111th Congress), Alabama",934
+"G02000","2010","AK",,,"Alaska","02",,,,,,,,,,,,,"00",,,,,,"50000US0200","Congressional District (at Large) (111th Congress), Alaska",64576,"Congressional District (at Large) (111th Congress), Alaska",2085
+"G04001","2010","AZ",,,"Arizona","04",,,,,,,,,,,,,"01",,,,,,"50000US0401","Congressional District 1 (111th Congress), Arizona",40854,"Congressional District 1 (111th Congress), Arizona",1280
+"G04002","2010","AZ",,,"Arizona","04",,,,,,,,,,,,,"02",,,,,,"50000US0402","Congressional District 2 (111th Congress), Arizona",47963,"Congressional District 2 (111th Congress), Arizona",1590
+"G04003","2010","AZ",,,"Arizona","04",,,,,,,,,,,,,"03",,,,,,"50000US0403","Congressional District 3 (111th Congress), Arizona",52327,"Congressional District 3 (111th Congress), Arizona",1637
+"G04004","2010","AZ",,,"Arizona","04",,,,,,,,,,,,,"04",,,,,,"50000US0404","Congressional District 4 (111th Congress), Arizona",31498,"Congressional District 4 (111th Congress), Arizona",687
+"G04005","2010","AZ",,,"Arizona","04",,,,,,,,,,,,,"05",,,,,,"50000US0405","Congressional District 5 (111th Congress), Arizona",55876,"Congressional District 5 (111th Congress), Arizona",1928
+"G04006","2010","AZ",,,"Arizona","04",,,,,,,,,,,,,"06",,,,,,"50000US0406","Congressional District 6 (111th Congress), Arizona",56691,"Congressional District 6 (111th Congress), Arizona",1768
+"G04007","2010","AZ",,,"Arizona","04",,,,,,,,,,,,,"07",,,,,,"50000US0407","Congressional District 7 (111th Congress), Arizona",39777,"Congressional District 7 (111th Congress), Arizona",1419
+"G04008","2010","AZ",,,"Arizona","04",,,,,,,,,,,,,"08",,,,,,"50000US0408","Congressional District 8 (111th Congress), Arizona",49825,"Congressional District 8 (111th Congress), Arizona",1546
+"G05001","2010","AR",,,"Arkansas","05",,,,,,,,,,,,,"01",,,,,,"50000US0501","Congressional District 1 (111th Congress), Arkansas",33862,"Congressional District 1 (111th Congress), Arkansas",1022
+"G05002","2010","AR",,,"Arkansas","05",,,,,,,,,,,,,"02",,,,,,"50000US0502","Congressional District 2 (111th Congress), Arkansas",43685,"Congressional District 2 (111th Congress), Arkansas",1649
+"G05003","2010","AR",,,"Arkansas","05",,,,,,,,,,,,,"03",,,,,,"50000US0503","Congressional District 3 (111th Congress), Arkansas",40674,"Congressional District 3 (111th Congress), Arkansas",1080
+"G05004","2010","AR",,,"Arkansas","05",,,,,,,,,,,,,"04",,,,,,"50000US0504","Congressional District 4 (111th Congress), Arkansas",35312,"Congressional District 4 (111th Congress), Arkansas",972
+"G06001","2010","CA",,,"California","06",,,,,,,,,,,,,"01",,,,,,"50000US0601","Congressional District 1 (111th Congress), California",48003,"Congressional District 1 (111th Congress), California",1931
+"G06002","2010","CA",,,"California","06",,,,,,,,,,,,,"02",,,,,,"50000US0602","Congressional District 2 (111th Congress), California",42249,"Congressional District 2 (111th Congress), California",1198
+"G06003","2010","CA",,,"California","06",,,,,,,,,,,,,"03",,,,,,"50000US0603","Congressional District 3 (111th Congress), California",61853,"Congressional District 3 (111th Congress), California",1401
+"G06004","2010","CA",,,"California","06",,,,,,,,,,,,,"04",,,,,,"50000US0604","Congressional District 4 (111th Congress), California",60629,"Congressional District 4 (111th Congress), California",2013
+"G06005","2010","CA",,,"California","06",,,,,,,,,,,,,"05",,,,,,"50000US0605","Congressional District 5 (111th Congress), California",43953,"Congressional District 5 (111th Congress), California",2030
+"G06006","2010","CA",,,"California","06",,,,,,,,,,,,,"06",,,,,,"50000US0606","Congressional District 6 (111th Congress), California",64391,"Congressional District 6 (111th Congress), California",2057
+"G06007","2010","CA",,,"California","06",,,,,,,,,,,,,"07",,,,,,"50000US0607","Congressional District 7 (111th Congress), California",61315,"Congressional District 7 (111th Congress), California",1440
+"G06008","2010","CA",,,"California","06",,,,,,,,,,,,,"08",,,,,,"50000US0608","Congressional District 8 (111th Congress), California",69926,"Congressional District 8 (111th Congress), California",3565
+"G06009","2010","CA",,,"California","06",,,,,,,,,,,,,"09",,,,,,"50000US0609","Congressional District 9 (111th Congress), California",53286,"Congressional District 9 (111th Congress), California",2380
+"G06010","2010","CA",,,"California","06",,,,,,,,,,,,,"10",,,,,,"50000US0610","Congressional District 10 (111th Congress), California",75457,"Congressional District 10 (111th Congress), California",2318
+"G06011","2010","CA",,,"California","06",,,,,,,,,,,,,"11",,,,,,"50000US0611","Congressional District 11 (111th Congress), California",72075,"Congressional District 11 (111th Congress), California",1877
+"G06012","2010","CA",,,"California","06",,,,,,,,,,,,,"12",,,,,,"50000US0612","Congressional District 12 (111th Congress), California",82337,"Congressional District 12 (111th Congress), California",2261
+"G06013","2010","CA",,,"California","06",,,,,,,,,,,,,"13",,,,,,"50000US0613","Congressional District 13 (111th Congress), California",73539,"Congressional District 13 (111th Congress), California",2346
+"G06014","2010","CA",,,"California","06",,,,,,,,,,,,,"14",,,,,,"50000US0614","Congressional District 14 (111th Congress), California",94740,"Congressional District 14 (111th Congress), California",3032
+"G06015","2010","CA",,,"California","06",,,,,,,,,,,,,"15",,,,,,"50000US0615","Congressional District 15 (111th Congress), California",85700,"Congressional District 15 (111th Congress), California",2015
+"G06016","2010","CA",,,"California","06",,,,,,,,,,,,,"16",,,,,,"50000US0616","Congressional District 16 (111th Congress), California",73973,"Congressional District 16 (111th Congress), California",2837
+"G06017","2010","CA",,,"California","06",,,,,,,,,,,,,"17",,,,,,"50000US0617","Congressional District 17 (111th Congress), California",55026,"Congressional District 17 (111th Congress), California",1764
+"G06018","2010","CA",,,"California","06",,,,,,,,,,,,,"18",,,,,,"50000US0618","Congressional District 18 (111th Congress), California",39297,"Congressional District 18 (111th Congress), California",1791
+"G06019","2010","CA",,,"California","06",,,,,,,,,,,,,"19",,,,,,"50000US0619","Congressional District 19 (111th Congress), California",51553,"Congressional District 19 (111th Congress), California",1368
+"G06020","2010","CA",,,"California","06",,,,,,,,,,,,,"20",,,,,,"50000US0620","Congressional District 20 (111th Congress), California",33089,"Congressional District 20 (111th Congress), California",2027
+"G06021","2010","CA",,,"California","06",,,,,,,,,,,,,"21",,,,,,"50000US0621","Congressional District 21 (111th Congress), California",48113,"Congressional District 21 (111th Congress), California",2517
+"G06022","2010","CA",,,"California","06",,,,,,,,,,,,,"22",,,,,,"50000US0622","Congressional District 22 (111th Congress), California",53626,"Congressional District 22 (111th Congress), California",2175
+"G06023","2010","CA",,,"California","06",,,,,,,,,,,,,"23",,,,,,"50000US0623","Congressional District 23 (111th Congress), California",54049,"Congressional District 23 (111th Congress), California",1568
+"G06024","2010","CA",,,"California","06",,,,,,,,,,,,,"24",,,,,,"50000US0624","Congressional District 24 (111th Congress), California",74103,"Congressional District 24 (111th Congress), California",2210
+"G06025","2010","CA",,,"California","06",,,,,,,,,,,,,"25",,,,,,"50000US0625","Congressional District 25 (111th Congress), California",57862,"Congressional District 25 (111th Congress), California",2394
+"G06026","2010","CA",,,"California","06",,,,,,,,,,,,,"26",,,,,,"50000US0626","Congressional District 26 (111th Congress), California",75086,"Congressional District 26 (111th Congress), California",2493
+"G06027","2010","CA",,,"California","06",,,,,,,,,,,,,"27",,,,,,"50000US0627","Congressional District 27 (111th Congress), California",56836,"Congressional District 27 (111th Congress), California",2241
+"G06028","2010","CA",,,"California","06",,,,,,,,,,,,,"28",,,,,,"50000US0628","Congressional District 28 (111th Congress), California",50607,"Congressional District 28 (111th Congress), California",1540
+"G06029","2010","CA",,,"California","06",,,,,,,,,,,,,"29",,,,,,"50000US0629","Congressional District 29 (111th Congress), California",57700,"Congressional District 29 (111th Congress), California",2524
+"G06030","2010","CA",,,"California","06",,,,,,,,,,,,,"30",,,,,,"50000US0630","Congressional District 30 (111th Congress), California",75700,"Congressional District 30 (111th Congress), California",2745
+"G06031","2010","CA",,,"California","06",,,,,,,,,,,,,"31",,,,,,"50000US0631","Congressional District 31 (111th Congress), California",35194,"Congressional District 31 (111th Congress), California",1257
+"G06032","2010","CA",,,"California","06",,,,,,,,,,,,,"32",,,,,,"50000US0632","Congressional District 32 (111th Congress), California",49529,"Congressional District 32 (111th Congress), California",1973
+"G06033","2010","CA",,,"California","06",,,,,,,,,,,,,"33",,,,,,"50000US0633","Congressional District 33 (111th Congress), California",41538,"Congressional District 33 (111th Congress), California",1502
+"G06034","2010","CA",,,"California","06",,,,,,,,,,,,,"34",,,,,,"50000US0634","Congressional District 34 (111th Congress), California",36270,"Congressional District 34 (111th Congress), California",1268
+"G06035","2010","CA",,,"California","06",,,,,,,,,,,,,"35",,,,,,"50000US0635","Congressional District 35 (111th Congress), California",41271,"Congressional District 35 (111th Congress), California",1455
+"G06036","2010","CA",,,"California","06",,,,,,,,,,,,,"36",,,,,,"50000US0636","Congressional District 36 (111th Congress), California",65717,"Congressional District 36 (111th Congress), California",2445
+"G06037","2010","CA",,,"California","06",,,,,,,,,,,,,"37",,,,,,"50000US0637","Congressional District 37 (111th Congress), California",46950,"Congressional District 37 (111th Congress), California",2054
+"G06038","2010","CA",,,"California","06",,,,,,,,,,,,,"38",,,,,,"50000US0638","Congressional District 38 (111th Congress), California",51381,"Congressional District 38 (111th Congress), California",1299
+"G06039","2010","CA",,,"California","06",,,,,,,,,,,,,"39",,,,,,"50000US0639","Congressional District 39 (111th Congress), California",53439,"Congressional District 39 (111th Congress), California",2913
+"G06040","2010","CA",,,"California","06",,,,,,,,,,,,,"40",,,,,,"50000US0640","Congressional District 40 (111th Congress), California",65243,"Congressional District 40 (111th Congress), California",2708
+"G06041","2010","CA",,,"California","06",,,,,,,,,,,,,"41",,,,,,"50000US0641","Congressional District 41 (111th Congress), California",49506,"Congressional District 41 (111th Congress), California",1931
+"G06042","2010","CA",,,"California","06",,,,,,,,,,,,,"42",,,,,,"50000US0642","Congressional District 42 (111th Congress), California",83029,"Congressional District 42 (111th Congress), California",2676
+"G06043","2010","CA",,,"California","06",,,,,,,,,,,,,"43",,,,,,"50000US0643","Congressional District 43 (111th Congress), California",46728,"Congressional District 43 (111th Congress), California",1593
+"G06044","2010","CA",,,"California","06",,,,,,,,,,,,,"44",,,,,,"50000US0644","Congressional District 44 (111th Congress), California",67381,"Congressional District 44 (111th Congress), California",2300
+"G06045","2010","CA",,,"California","06",,,,,,,,,,,,,"45",,,,,,"50000US0645","Congressional District 45 (111th Congress), California",49508,"Congressional District 45 (111th Congress), California",2004
+"G06046","2010","CA",,,"California","06",,,,,,,,,,,,,"46",,,,,,"50000US0646","Congressional District 46 (111th Congress), California",71332,"Congressional District 46 (111th Congress), California",1793
+"G06047","2010","CA",,,"California","06",,,,,,,,,,,,,"47",,,,,,"50000US0647","Congressional District 47 (111th Congress), California",51647,"Congressional District 47 (111th Congress), California",1770
+"G06048","2010","CA",,,"California","06",,,,,,,,,,,,,"48",,,,,,"50000US0648","Congressional District 48 (111th Congress), California",82047,"Congressional District 48 (111th Congress), California",2391
+"G06049","2010","CA",,,"California","06",,,,,,,,,,,,,"49",,,,,,"50000US0649","Congressional District 49 (111th Congress), California",57399,"Congressional District 49 (111th Congress), California",2315
+"G06050","2010","CA",,,"California","06",,,,,,,,,,,,,"50",,,,,,"50000US0650","Congressional District 50 (111th Congress), California",70362,"Congressional District 50 (111th Congress), California",2641
+"G06051","2010","CA",,,"California","06",,,,,,,,,,,,,"51",,,,,,"50000US0651","Congressional District 51 (111th Congress), California",50316,"Congressional District 51 (111th Congress), California",1515
+"G06052","2010","CA",,,"California","06",,,,,,,,,,,,,"52",,,,,,"50000US0652","Congressional District 52 (111th Congress), California",67671,"Congressional District 52 (111th Congress), California",2259
+"G06053","2010","CA",,,"California","06",,,,,,,,,,,,,"53",,,,,,"50000US0653","Congressional District 53 (111th Congress), California",48679,"Congressional District 53 (111th Congress), California",1946
+"G08001","2010","CO",,,"Colorado","08",,,,,,,,,,,,,"01",,,,,,"50000US0801","Congressional District 1 (111th Congress), Colorado",44859,"Congressional District 1 (111th Congress), Colorado",1452
+"G08002","2010","CO",,,"Colorado","08",,,,,,,,,,,,,"02",,,,,,"50000US0802","Congressional District 2 (111th Congress), Colorado",62146,"Congressional District 2 (111th Congress), Colorado",1523
+"G08003","2010","CO",,,"Colorado","08",,,,,,,,,,,,,"03",,,,,,"50000US0803","Congressional District 3 (111th Congress), Colorado",44906,"Congressional District 3 (111th Congress), Colorado",1626
+"G08004","2010","CO",,,"Colorado","08",,,,,,,,,,,,,"04",,,,,,"50000US0804","Congressional District 4 (111th Congress), Colorado",50167,"Congressional District 4 (111th Congress), Colorado",1625
+"G08005","2010","CO",,,"Colorado","08",,,,,,,,,,,,,"05",,,,,,"50000US0805","Congressional District 5 (111th Congress), Colorado",50925,"Congressional District 5 (111th Congress), Colorado",794
+"G08006","2010","CO",,,"Colorado","08",,,,,,,,,,,,,"06",,,,,,"50000US0806","Congressional District 6 (111th Congress), Colorado",82062,"Congressional District 6 (111th Congress), Colorado",1938
+"G08007","2010","CO",,,"Colorado","08",,,,,,,,,,,,,"07",,,,,,"50000US0807","Congressional District 7 (111th Congress), Colorado",50360,"Congressional District 7 (111th Congress), Colorado",1352
+"G09001","2010","CT",,,"Connecticut","09",,,,,,,,,,,,,"01",,,,,,"50000US0901","Congressional District 1 (111th Congress), Connecticut",59321,"Congressional District 1 (111th Congress), Connecticut",2146
+"G09002","2010","CT",,,"Connecticut","09",,,,,,,,,,,,,"02",,,,,,"50000US0902","Congressional District 2 (111th Congress), Connecticut",68952,"Congressional District 2 (111th Congress), Connecticut",2074
+"G09003","2010","CT",,,"Connecticut","09",,,,,,,,,,,,,"03",,,,,,"50000US0903","Congressional District 3 (111th Congress), Connecticut",57676,"Congressional District 3 (111th Congress), Connecticut",2059
+"G09004","2010","CT",,,"Connecticut","09",,,,,,,,,,,,,"04",,,,,,"50000US0904","Congressional District 4 (111th Congress), Connecticut",77074,"Congressional District 4 (111th Congress), Connecticut",2966
+"G09005","2010","CT",,,"Connecticut","09",,,,,,,,,,,,,"05",,,,,,"50000US0905","Congressional District 5 (111th Congress), Connecticut",60460,"Congressional District 5 (111th Congress), Connecticut",1924
+"G10000","2010","DE",,,"Delaware","10",,,,,,,,,,,,,"00",,,,,,"50000US1000","Congressional District (at Large) (111th Congress), Delaware",55847,"Congressional District (at Large) (111th Congress), Delaware",1499
+"G11098","2010","DC",,,"District Of Columbia","11",,,,,,,,,,,,,"98",,,,,,"50000US1198","Delegate District (at Large) (111th Congress), District of Columbia",60903,"Delegate District (at Large) (111th Congress), District of Columbia",1540
+"G12001","2010","FL",,,"Florida","12",,,,,,,,,,,,,"01",,,,,,"50000US1201","Congressional District 1 (111th Congress), Florida",45140,"Congressional District 1 (111th Congress), Florida",1344
+"G12002","2010","FL",,,"Florida","12",,,,,,,,,,,,,"02",,,,,,"50000US1202","Congressional District 2 (111th Congress), Florida",41929,"Congressional District 2 (111th Congress), Florida",925
+"G12003","2010","FL",,,"Florida","12",,,,,,,,,,,,,"03",,,,,,"50000US1203","Congressional District 3 (111th Congress), Florida",31968,"Congressional District 3 (111th Congress), Florida",1224
+"G12004","2010","FL",,,"Florida","12",,,,,,,,,,,,,"04",,,,,,"50000US1204","Congressional District 4 (111th Congress), Florida",50337,"Congressional District 4 (111th Congress), Florida",1476
+"G12005","2010","FL",,,"Florida","12",,,,,,,,,,,,,"05",,,,,,"50000US1205","Congressional District 5 (111th Congress), Florida",42473,"Congressional District 5 (111th Congress), Florida",1026
+"G12006","2010","FL",,,"Florida","12",,,,,,,,,,,,,"06",,,,,,"50000US1206","Congressional District 6 (111th Congress), Florida",43971,"Congressional District 6 (111th Congress), Florida",1550
+"G12007","2010","FL",,,"Florida","12",,,,,,,,,,,,,"07",,,,,,"50000US1207","Congressional District 7 (111th Congress), Florida",48341,"Congressional District 7 (111th Congress), Florida",1593
+"G12008","2010","FL",,,"Florida","12",,,,,,,,,,,,,"08",,,,,,"50000US1208","Congressional District 8 (111th Congress), Florida",45221,"Congressional District 8 (111th Congress), Florida",1699
+"G12009","2010","FL",,,"Florida","12",,,,,,,,,,,,,"09",,,,,,"50000US1209","Congressional District 9 (111th Congress), Florida",46928,"Congressional District 9 (111th Congress), Florida",1150
+"G12010","2010","FL",,,"Florida","12",,,,,,,,,,,,,"10",,,,,,"50000US1210","Congressional District 10 (111th Congress), Florida",44062,"Congressional District 10 (111th Congress), Florida",1603
+"G12011","2010","FL",,,"Florida","12",,,,,,,,,,,,,"11",,,,,,"50000US1211","Congressional District 11 (111th Congress), Florida",37724,"Congressional District 11 (111th Congress), Florida",1518
+"G12012","2010","FL",,,"Florida","12",,,,,,,,,,,,,"12",,,,,,"50000US1212","Congressional District 12 (111th Congress), Florida",42150,"Congressional District 12 (111th Congress), Florida",1053
+"G12013","2010","FL",,,"Florida","12",,,,,,,,,,,,,"13",,,,,,"50000US1213","Congressional District 13 (111th Congress), Florida",45514,"Congressional District 13 (111th Congress), Florida",1358
+"G12014","2010","FL",,,"Florida","12",,,,,,,,,,,,,"14",,,,,,"50000US1214","Congressional District 14 (111th Congress), Florida",46905,"Congressional District 14 (111th Congress), Florida",1004
+"G12015","2010","FL",,,"Florida","12",,,,,,,,,,,,,"15",,,,,,"50000US1215","Congressional District 15 (111th Congress), Florida",45613,"Congressional District 15 (111th Congress), Florida",1116
+"G12016","2010","FL",,,"Florida","12",,,,,,,,,,,,,"16",,,,,,"50000US1216","Congressional District 16 (111th Congress), Florida",43420,"Congressional District 16 (111th Congress), Florida",1385
+"G12017","2010","FL",,,"Florida","12",,,,,,,,,,,,,"17",,,,,,"50000US1217","Congressional District 17 (111th Congress), Florida",35017,"Congressional District 17 (111th Congress), Florida",1345
+"G12018","2010","FL",,,"Florida","12",,,,,,,,,,,,,"18",,,,,,"50000US1218","Congressional District 18 (111th Congress), Florida",37823,"Congressional District 18 (111th Congress), Florida",2101
+"G12019","2010","FL",,,"Florida","12",,,,,,,,,,,,,"19",,,,,,"50000US1219","Congressional District 19 (111th Congress), Florida",46919,"Congressional District 19 (111th Congress), Florida",1498
+"G12020","2010","FL",,,"Florida","12",,,,,,,,,,,,,"20",,,,,,"50000US1220","Congressional District 20 (111th Congress), Florida",50905,"Congressional District 20 (111th Congress), Florida",1121
+"G12021","2010","FL",,,"Florida","12",,,,,,,,,,,,,"21",,,,,,"50000US1221","Congressional District 21 (111th Congress), Florida",45943,"Congressional District 21 (111th Congress), Florida",1728
+"G12022","2010","FL",,,"Florida","12",,,,,,,,,,,,,"22",,,,,,"50000US1222","Congressional District 22 (111th Congress), Florida",58319,"Congressional District 22 (111th Congress), Florida",2565
+"G12023","2010","FL",,,"Florida","12",,,,,,,,,,,,,"23",,,,,,"50000US1223","Congressional District 23 (111th Congress), Florida",34942,"Congressional District 23 (111th Congress), Florida",1428
+"G12024","2010","FL",,,"Florida","12",,,,,,,,,,,,,"24",,,,,,"50000US1224","Congressional District 24 (111th Congress), Florida",51960,"Congressional District 24 (111th Congress), Florida",1289
+"G12025","2010","FL",,,"Florida","12",,,,,,,,,,,,,"25",,,,,,"50000US1225","Congressional District 25 (111th Congress), Florida",49326,"Congressional District 25 (111th Congress), Florida",1653
+"G13001","2010","GA",,,"Georgia","13",,,,,,,,,,,,,"01",,,,,,"50000US1301","Congressional District 1 (111th Congress), Georgia",40999,"Congressional District 1 (111th Congress), Georgia",1493
+"G13002","2010","GA",,,"Georgia","13",,,,,,,,,,,,,"02",,,,,,"50000US1302","Congressional District 2 (111th Congress), Georgia",31368,"Congressional District 2 (111th Congress), Georgia",1049
+"G13003","2010","GA",,,"Georgia","13",,,,,,,,,,,,,"03",,,,,,"50000US1303","Congressional District 3 (111th Congress), Georgia",52970,"Congressional District 3 (111th Congress), Georgia",1781
+"G13004","2010","GA",,,"Georgia","13",,,,,,,,,,,,,"04",,,,,,"50000US1304","Congressional District 4 (111th Congress), Georgia",43435,"Congressional District 4 (111th Congress), Georgia",1540
+"G13005","2010","GA",,,"Georgia","13",,,,,,,,,,,,,"05",,,,,,"50000US1305","Congressional District 5 (111th Congress), Georgia",43902,"Congressional District 5 (111th Congress), Georgia",2801
+"G13006","2010","GA",,,"Georgia","13",,,,,,,,,,,,,"06",,,,,,"50000US1306","Congressional District 6 (111th Congress), Georgia",73528,"Congressional District 6 (111th Congress), Georgia",3562
+"G13007","2010","GA",,,"Georgia","13",,,,,,,,,,,,,"07",,,,,,"50000US1307","Congressional District 7 (111th Congress), Georgia",60594,"Congressional District 7 (111th Congress), Georgia",1444
+"G13008","2010","GA",,,"Georgia","13",,,,,,,,,,,,,"08",,,,,,"50000US1308","Congressional District 8 (111th Congress), Georgia",40806,"Congressional District 8 (111th Congress), Georgia",1138
+"G13009","2010","GA",,,"Georgia","13",,,,,,,,,,,,,"09",,,,,,"50000US1309","Congressional District 9 (111th Congress), Georgia",45925,"Congressional District 9 (111th Congress), Georgia",1354
+"G13010","2010","GA",,,"Georgia","13",,,,,,,,,,,,,"10",,,,,,"50000US1310","Congressional District 10 (111th Congress), Georgia",41520,"Congressional District 10 (111th Congress), Georgia",1161
+"G13011","2010","GA",,,"Georgia","13",,,,,,,,,,,,,"11",,,,,,"50000US1311","Congressional District 11 (111th Congress), Georgia",49434,"Congressional District 11 (111th Congress), Georgia",1866
+"G13012","2010","GA",,,"Georgia","13",,,,,,,,,,,,,"12",,,,,,"50000US1312","Congressional District 12 (111th Congress), Georgia",35475,"Congressional District 12 (111th Congress), Georgia",1217
+"G13013","2010","GA",,,"Georgia","13",,,,,,,,,,,,,"13",,,,,,"50000US1313","Congressional District 13 (111th Congress), Georgia",44704,"Congressional District 13 (111th Congress), Georgia",1937
+"G15001","2010","HI",,,"Hawaii","15",,,,,,,,,,,,,"01",,,,,,"50000US1501","Congressional District 1 (111th Congress), Hawaii",66111,"Congressional District 1 (111th Congress), Hawaii",2485
+"G15002","2010","HI",,,"Hawaii","15",,,,,,,,,,,,,"02",,,,,,"50000US1502","Congressional District 2 (111th Congress), Hawaii",60437,"Congressional District 2 (111th Congress), Hawaii",1935
+"G16001","2010","ID",,,"Idaho","16",,,,,,,,,,,,,"01",,,,,,"50000US1601","Congressional District 1 (111th Congress), Idaho",44949,"Congressional District 1 (111th Congress), Idaho",1354
+"G16002","2010","ID",,,"Idaho","16",,,,,,,,,,,,,"02",,,,,,"50000US1602","Congressional District 2 (111th Congress), Idaho",42042,"Congressional District 2 (111th Congress), Idaho",1077
+"G17001","2010","IL",,,"Illinois","17",,,,,,,,,,,,,"01",,,,,,"50000US1701","Congressional District 1 (111th Congress), Illinois",38299,"Congressional District 1 (111th Congress), Illinois",1856
+"G17002","2010","IL",,,"Illinois","17",,,,,,,,,,,,,"02",,,,,,"50000US1702","Congressional District 2 (111th Congress), Illinois",43515,"Congressional District 2 (111th Congress), Illinois",1964
+"G17003","2010","IL",,,"Illinois","17",,,,,,,,,,,,,"03",,,,,,"50000US1703","Congressional District 3 (111th Congress), Illinois",55322,"Congressional District 3 (111th Congress), Illinois",1759
+"G17004","2010","IL",,,"Illinois","17",,,,,,,,,,,,,"04",,,,,,"50000US1704","Congressional District 4 (111th Congress), Illinois",42646,"Congressional District 4 (111th Congress), Illinois",2060
+"G17005","2010","IL",,,"Illinois","17",,,,,,,,,,,,,"05",,,,,,"50000US1705","Congressional District 5 (111th Congress), Illinois",57026,"Congressional District 5 (111th Congress), Illinois",1702
+"G17006","2010","IL",,,"Illinois","17",,,,,,,,,,,,,"06",,,,,,"50000US1706","Congressional District 6 (111th Congress), Illinois",66033,"Congressional District 6 (111th Congress), Illinois",2131
+"G17007","2010","IL",,,"Illinois","17",,,,,,,,,,,,,"07",,,,,,"50000US1707","Congressional District 7 (111th Congress), Illinois",48698,"Congressional District 7 (111th Congress), Illinois",2535
+"G17008","2010","IL",,,"Illinois","17",,,,,,,,,,,,,"08",,,,,,"50000US1708","Congressional District 8 (111th Congress), Illinois",67740,"Congressional District 8 (111th Congress), Illinois",2277
+"G17009","2010","IL",,,"Illinois","17",,,,,,,,,,,,,"09",,,,,,"50000US1709","Congressional District 9 (111th Congress), Illinois",52691,"Congressional District 9 (111th Congress), Illinois",2299
+"G17010","2010","IL",,,"Illinois","17",,,,,,,,,,,,,"10",,,,,,"50000US1710","Congressional District 10 (111th Congress), Illinois",77055,"Congressional District 10 (111th Congress), Illinois",2628
+"G17011","2010","IL",,,"Illinois","17",,,,,,,,,,,,,"11",,,,,,"50000US1711","Congressional District 11 (111th Congress), Illinois",55276,"Congressional District 11 (111th Congress), Illinois",2057
+"G17012","2010","IL",,,"Illinois","17",,,,,,,,,,,,,"12",,,,,,"50000US1712","Congressional District 12 (111th Congress), Illinois",42718,"Congressional District 12 (111th Congress), Illinois",1364
+"G17013","2010","IL",,,"Illinois","17",,,,,,,,,,,,,"13",,,,,,"50000US1713","Congressional District 13 (111th Congress), Illinois",80124,"Congressional District 13 (111th Congress), Illinois",1627
+"G17014","2010","IL",,,"Illinois","17",,,,,,,,,,,,,"14",,,,,,"50000US1714","Congressional District 14 (111th Congress), Illinois",63402,"Congressional District 14 (111th Congress), Illinois",2714
+"G17015","2010","IL",,,"Illinois","17",,,,,,,,,,,,,"15",,,,,,"50000US1715","Congressional District 15 (111th Congress), Illinois",45373,"Congressional District 15 (111th Congress), Illinois",1317
+"G17016","2010","IL",,,"Illinois","17",,,,,,,,,,,,,"16",,,,,,"50000US1716","Congressional District 16 (111th Congress), Illinois",52903,"Congressional District 16 (111th Congress), Illinois",1271
+"G17017","2010","IL",,,"Illinois","17",,,,,,,,,,,,,"17",,,,,,"50000US1717","Congressional District 17 (111th Congress), Illinois",39021,"Congressional District 17 (111th Congress), Illinois",1162
+"G17018","2010","IL",,,"Illinois","17",,,,,,,,,,,,,"18",,,,,,"50000US1718","Congressional District 18 (111th Congress), Illinois",50322,"Congressional District 18 (111th Congress), Illinois",996
+"G17019","2010","IL",,,"Illinois","17",,,,,,,,,,,,,"19",,,,,,"50000US1719","Congressional District 19 (111th Congress), Illinois",48513,"Congressional District 19 (111th Congress), Illinois",1277
+"G18001","2010","IN",,,"Indiana","18",,,,,,,,,,,,,"01",,,,,,"50000US1801","Congressional District 1 (111th Congress), Indiana",47613,"Congressional District 1 (111th Congress), Indiana",1471
+"G18002","2010","IN",,,"Indiana","18",,,,,,,,,,,,,"02",,,,,,"50000US1802","Congressional District 2 (111th Congress), Indiana",40356,"Congressional District 2 (111th Congress), Indiana",826
+"G18003","2010","IN",,,"Indiana","18",,,,,,,,,,,,,"03",,,,,,"50000US1803","Congressional District 3 (111th Congress), Indiana",47197,"Congressional District 3 (111th Congress), Indiana",1111
+"G18004","2010","IN",,,"Indiana","18",,,,,,,,,,,,,"04",,,,,,"50000US1804","Congressional District 4 (111th Congress), Indiana",51085,"Congressional District 4 (111th Congress), Indiana",1096
+"G18005","2010","IN",,,"Indiana","18",,,,,,,,,,,,,"05",,,,,,"50000US1805","Congressional District 5 (111th Congress), Indiana",56440,"Congressional District 5 (111th Congress), Indiana",1176
+"G18006","2010","IN",,,"Indiana","18",,,,,,,,,,,,,"06",,,,,,"50000US1806","Congressional District 6 (111th Congress), Indiana",41110,"Congressional District 6 (111th Congress), Indiana",860
+"G18007","2010","IN",,,"Indiana","18",,,,,,,,,,,,,"07",,,,,,"50000US1807","Congressional District 7 (111th Congress), Indiana",34139,"Congressional District 7 (111th Congress), Indiana",1137
+"G18008","2010","IN",,,"Indiana","18",,,,,,,,,,,,,"08",,,,,,"50000US1808","Congressional District 8 (111th Congress), Indiana",42843,"Congressional District 8 (111th Congress), Indiana",1439
+"G18009","2010","IN",,,"Indiana","18",,,,,,,,,,,,,"09",,,,,,"50000US1809","Congressional District 9 (111th Congress), Indiana",42314,"Congressional District 9 (111th Congress), Indiana",1187
+"G19001","2010","IA",,,"Iowa","19",,,,,,,,,,,,,"01",,,,,,"50000US1901","Congressional District 1 (111th Congress), Iowa",46704,"Congressional District 1 (111th Congress), Iowa",1032
+"G19002","2010","IA",,,"Iowa","19",,,,,,,,,,,,,"02",,,,,,"50000US1902","Congressional District 2 (111th Congress), Iowa",48387,"Congressional District 2 (111th Congress), Iowa",1374
+"G19003","2010","IA",,,"Iowa","19",,,,,,,,,,,,,"03",,,,,,"50000US1903","Congressional District 3 (111th Congress), Iowa",51542,"Congressional District 3 (111th Congress), Iowa",1270
+"G19004","2010","IA",,,"Iowa","19",,,,,,,,,,,,,"04",,,,,,"50000US1904","Congressional District 4 (111th Congress), Iowa",47317,"Congressional District 4 (111th Congress), Iowa",1118
+"G19005","2010","IA",,,"Iowa","19",,,,,,,,,,,,,"05",,,,,,"50000US1905","Congressional District 5 (111th Congress), Iowa",46031,"Congressional District 5 (111th Congress), Iowa",1139
+"G20001","2010","KS",,,"Kansas","20",,,,,,,,,,,,,"01",,,,,,"50000US2001","Congressional District 1 (111th Congress), Kansas",43367,"Congressional District 1 (111th Congress), Kansas",1324
+"G20002","2010","KS",,,"Kansas","20",,,,,,,,,,,,,"02",,,,,,"50000US2002","Congressional District 2 (111th Congress), Kansas",45992,"Congressional District 2 (111th Congress), Kansas",1077
+"G20003","2010","KS",,,"Kansas","20",,,,,,,,,,,,,"03",,,,,,"50000US2003","Congressional District 3 (111th Congress), Kansas",60507,"Congressional District 3 (111th Congress), Kansas",1685
+"G20004","2010","KS",,,"Kansas","20",,,,,,,,,,,,,"04",,,,,,"50000US2004","Congressional District 4 (111th Congress), Kansas",45291,"Congressional District 4 (111th Congress), Kansas",982
+"G21001","2010","KY",,,"Kentucky","21",,,,,,,,,,,,,"01",,,,,,"50000US2101","Congressional District 1 (111th Congress), Kentucky",36752,"Congressional District 1 (111th Congress), Kentucky",1103
+"G21002","2010","KY",,,"Kentucky","21",,,,,,,,,,,,,"02",,,,,,"50000US2102","Congressional District 2 (111th Congress), Kentucky",41459,"Congressional District 2 (111th Congress), Kentucky",1057
+"G21003","2010","KY",,,"Kentucky","21",,,,,,,,,,,,,"03",,,,,,"50000US2103","Congressional District 3 (111th Congress), Kentucky",42397,"Congressional District 3 (111th Congress), Kentucky",1267
+"G21004","2010","KY",,,"Kentucky","21",,,,,,,,,,,,,"04",,,,,,"50000US2104","Congressional District 4 (111th Congress), Kentucky",46707,"Congressional District 4 (111th Congress), Kentucky",1045
+"G21005","2010","KY",,,"Kentucky","21",,,,,,,,,,,,,"05",,,,,,"50000US2105","Congressional District 5 (111th Congress), Kentucky",28411,"Congressional District 5 (111th Congress), Kentucky",1357
+"G21006","2010","KY",,,"Kentucky","21",,,,,,,,,,,,,"06",,,,,,"50000US2106","Congressional District 6 (111th Congress), Kentucky",42936,"Congressional District 6 (111th Congress), Kentucky",1543
+"G22001","2010","LA",,,"Louisiana","22",,,,,,,,,,,,,"01",,,,,,"50000US2201","Congressional District 1 (111th Congress), Louisiana",49866,"Congressional District 1 (111th Congress), Louisiana",1750
+"G22002","2010","LA",,,"Louisiana","22",,,,,,,,,,,,,"02",,,,,,"50000US2202","Congressional District 2 (111th Congress), Louisiana",37162,"Congressional District 2 (111th Congress), Louisiana",1787
+"G22003","2010","LA",,,"Louisiana","22",,,,,,,,,,,,,"03",,,,,,"50000US2203","Congressional District 3 (111th Congress), Louisiana",46048,"Congressional District 3 (111th Congress), Louisiana",2040
+"G22004","2010","LA",,,"Louisiana","22",,,,,,,,,,,,,"04",,,,,,"50000US2204","Congressional District 4 (111th Congress), Louisiana",38966,"Congressional District 4 (111th Congress), Louisiana",1977
+"G22005","2010","LA",,,"Louisiana","22",,,,,,,,,,,,,"05",,,,,,"50000US2205","Congressional District 5 (111th Congress), Louisiana",36401,"Congressional District 5 (111th Congress), Louisiana",1289
+"G22006","2010","LA",,,"Louisiana","22",,,,,,,,,,,,,"06",,,,,,"50000US2206","Congressional District 6 (111th Congress), Louisiana",49016,"Congressional District 6 (111th Congress), Louisiana",1730
+"G22007","2010","LA",,,"Louisiana","22",,,,,,,,,,,,,"07",,,,,,"50000US2207","Congressional District 7 (111th Congress), Louisiana",41542,"Congressional District 7 (111th Congress), Louisiana",1275
+"G23001","2010","ME",,,"Maine","23",,,,,,,,,,,,,"01",,,,,,"50000US2301","Congressional District 1 (111th Congress), Maine",53011,"Congressional District 1 (111th Congress), Maine",1642
+"G23002","2010","ME",,,"Maine","23",,,,,,,,,,,,,"02",,,,,,"50000US2302","Congressional District 2 (111th Congress), Maine",39465,"Congressional District 2 (111th Congress), Maine",1551
+"G24001","2010","MD",,,"Maryland","24",,,,,,,,,,,,,"01",,,,,,"50000US2401","Congressional District 1 (111th Congress), Maryland",66890,"Congressional District 1 (111th Congress), Maryland",1254
+"G24002","2010","MD",,,"Maryland","24",,,,,,,,,,,,,"02",,,,,,"50000US2402","Congressional District 2 (111th Congress), Maryland",56215,"Congressional District 2 (111th Congress), Maryland",1566
+"G24003","2010","MD",,,"Maryland","24",,,,,,,,,,,,,"03",,,,,,"50000US2403","Congressional District 3 (111th Congress), Maryland",70113,"Congressional District 3 (111th Congress), Maryland",2692
+"G24004","2010","MD",,,"Maryland","24",,,,,,,,,,,,,"04",,,,,,"50000US2404","Congressional District 4 (111th Congress), Maryland",71863,"Congressional District 4 (111th Congress), Maryland",2344
+"G24005","2010","MD",,,"Maryland","24",,,,,,,,,,,,,"05",,,,,,"50000US2405","Congressional District 5 (111th Congress), Maryland",83020,"Congressional District 5 (111th Congress), Maryland",1831
+"G24006","2010","MD",,,"Maryland","24",,,,,,,,,,,,,"06",,,,,,"50000US2406","Congressional District 6 (111th Congress), Maryland",69501,"Congressional District 6 (111th Congress), Maryland",1954
+"G24007","2010","MD",,,"Maryland","24",,,,,,,,,,,,,"07",,,,,,"50000US2407","Congressional District 7 (111th Congress), Maryland",51012,"Congressional District 7 (111th Congress), Maryland",1519
+"G24008","2010","MD",,,"Maryland","24",,,,,,,,,,,,,"08",,,,,,"50000US2408","Congressional District 8 (111th Congress), Maryland",85926,"Congressional District 8 (111th Congress), Maryland",2313
+"G25001","2010","MA",,,"Massachusetts","25",,,,,,,,,,,,,"01",,,,,,"50000US2501","Congressional District 1 (111th Congress), Massachusetts",50865,"Congressional District 1 (111th Congress), Massachusetts",1452
+"G25002","2010","MA",,,"Massachusetts","25",,,,,,,,,,,,,"02",,,,,,"50000US2502","Congressional District 2 (111th Congress), Massachusetts",55932,"Congressional District 2 (111th Congress), Massachusetts",2353
+"G25003","2010","MA",,,"Massachusetts","25",,,,,,,,,,,,,"03",,,,,,"50000US2503","Congressional District 3 (111th Congress), Massachusetts",61622,"Congressional District 3 (111th Congress), Massachusetts",1923
+"G25004","2010","MA",,,"Massachusetts","25",,,,,,,,,,,,,"04",,,,,,"50000US2504","Congressional District 4 (111th Congress), Massachusetts",64958,"Congressional District 4 (111th Congress), Massachusetts",2849
+"G25005","2010","MA",,,"Massachusetts","25",,,,,,,,,,,,,"05",,,,,,"50000US2505","Congressional District 5 (111th Congress), Massachusetts",68241,"Congressional District 5 (111th Congress), Massachusetts",2514
+"G25006","2010","MA",,,"Massachusetts","25",,,,,,,,,,,,,"06",,,,,,"50000US2506","Congressional District 6 (111th Congress), Massachusetts",70330,"Congressional District 6 (111th Congress), Massachusetts",1878
+"G25007","2010","MA",,,"Massachusetts","25",,,,,,,,,,,,,"07",,,,,,"50000US2507","Congressional District 7 (111th Congress), Massachusetts",71400,"Congressional District 7 (111th Congress), Massachusetts",2660
+"G25008","2010","MA",,,"Massachusetts","25",,,,,,,,,,,,,"08",,,,,,"50000US2508","Congressional District 8 (111th Congress), Massachusetts",47604,"Congressional District 8 (111th Congress), Massachusetts",2424
+"G25009","2010","MA",,,"Massachusetts","25",,,,,,,,,,,,,"09",,,,,,"50000US2509","Congressional District 9 (111th Congress), Massachusetts",72927,"Congressional District 9 (111th Congress), Massachusetts",1987
+"G25010","2010","MA",,,"Massachusetts","25",,,,,,,,,,,,,"10",,,,,,"50000US2510","Congressional District 10 (111th Congress), Massachusetts",65094,"Congressional District 10 (111th Congress), Massachusetts",2100
+"G26001","2010","MI",,,"Michigan","26",,,,,,,,,,,,,"01",,,,,,"50000US2601","Congressional District 1 (111th Congress), Michigan",38761,"Congressional District 1 (111th Congress), Michigan",817
+"G26002","2010","MI",,,"Michigan","26",,,,,,,,,,,,,"02",,,,,,"50000US2602","Congressional District 2 (111th Congress), Michigan",44527,"Congressional District 2 (111th Congress), Michigan",1128
+"G26003","2010","MI",,,"Michigan","26",,,,,,,,,,,,,"03",,,,,,"50000US2603","Congressional District 3 (111th Congress), Michigan",47614,"Congressional District 3 (111th Congress), Michigan",1302
+"G26004","2010","MI",,,"Michigan","26",,,,,,,,,,,,,"04",,,,,,"50000US2604","Congressional District 4 (111th Congress), Michigan",41496,"Congressional District 4 (111th Congress), Michigan",771
+"G26005","2010","MI",,,"Michigan","26",,,,,,,,,,,,,"05",,,,,,"50000US2605","Congressional District 5 (111th Congress), Michigan",38495,"Congressional District 5 (111th Congress), Michigan",1424
+"G26006","2010","MI",,,"Michigan","26",,,,,,,,,,,,,"06",,,,,,"50000US2606","Congressional District 6 (111th Congress), Michigan",42521,"Congressional District 6 (111th Congress), Michigan",1140
+"G26007","2010","MI",,,"Michigan","26",,,,,,,,,,,,,"07",,,,,,"50000US2607","Congressional District 7 (111th Congress), Michigan",46606,"Congressional District 7 (111th Congress), Michigan",1285
+"G26008","2010","MI",,,"Michigan","26",,,,,,,,,,,,,"08",,,,,,"50000US2608","Congressional District 8 (111th Congress), Michigan",54323,"Congressional District 8 (111th Congress), Michigan",1873
+"G26009","2010","MI",,,"Michigan","26",,,,,,,,,,,,,"09",,,,,,"50000US2609","Congressional District 9 (111th Congress), Michigan",62098,"Congressional District 9 (111th Congress), Michigan",1471
+"G26010","2010","MI",,,"Michigan","26",,,,,,,,,,,,,"10",,,,,,"50000US2610","Congressional District 10 (111th Congress), Michigan",51487,"Congressional District 10 (111th Congress), Michigan",1160
+"G26011","2010","MI",,,"Michigan","26",,,,,,,,,,,,,"11",,,,,,"50000US2611","Congressional District 11 (111th Congress), Michigan",58150,"Congressional District 11 (111th Congress), Michigan",1791
+"G26012","2010","MI",,,"Michigan","26",,,,,,,,,,,,,"12",,,,,,"50000US2612","Congressional District 12 (111th Congress), Michigan",43431,"Congressional District 12 (111th Congress), Michigan",1510
+"G26013","2010","MI",,,"Michigan","26",,,,,,,,,,,,,"13",,,,,,"50000US2613","Congressional District 13 (111th Congress), Michigan",29343,"Congressional District 13 (111th Congress), Michigan",1251
+"G26014","2010","MI",,,"Michigan","26",,,,,,,,,,,,,"14",,,,,,"50000US2614","Congressional District 14 (111th Congress), Michigan",31786,"Congressional District 14 (111th Congress), Michigan",1088
+"G26015","2010","MI",,,"Michigan","26",,,,,,,,,,,,,"15",,,,,,"50000US2615","Congressional District 15 (111th Congress), Michigan",50090,"Congressional District 15 (111th Congress), Michigan",1270
+"G27001","2010","MN",,,"Minnesota","27",,,,,,,,,,,,,"01",,,,,,"50000US2701","Congressional District 1 (111th Congress), Minnesota",49844,"Congressional District 1 (111th Congress), Minnesota",1223
+"G27002","2010","MN",,,"Minnesota","27",,,,,,,,,,,,,"02",,,,,,"50000US2702","Congressional District 2 (111th Congress), Minnesota",71862,"Congressional District 2 (111th Congress), Minnesota",1486
+"G27003","2010","MN",,,"Minnesota","27",,,,,,,,,,,,,"03",,,,,,"50000US2703","Congressional District 3 (111th Congress), Minnesota",70552,"Congressional District 3 (111th Congress), Minnesota",1646
+"G27004","2010","MN",,,"Minnesota","27",,,,,,,,,,,,,"04",,,,,,"50000US2704","Congressional District 4 (111th Congress), Minnesota",51277,"Congressional District 4 (111th Congress), Minnesota",1306
+"G27005","2010","MN",,,"Minnesota","27",,,,,,,,,,,,,"05",,,,,,"50000US2705","Congressional District 5 (111th Congress), Minnesota",49135,"Congressional District 5 (111th Congress), Minnesota",1690
+"G27006","2010","MN",,,"Minnesota","27",,,,,,,,,,,,,"06",,,,,,"50000US2706","Congressional District 6 (111th Congress), Minnesota",67049,"Congressional District 6 (111th Congress), Minnesota",1481
+"G27007","2010","MN",,,"Minnesota","27",,,,,,,,,,,,,"07",,,,,,"50000US2707","Congressional District 7 (111th Congress), Minnesota",46198,"Congressional District 7 (111th Congress), Minnesota",947
+"G27008","2010","MN",,,"Minnesota","27",,,,,,,,,,,,,"08",,,,,,"50000US2708","Congressional District 8 (111th Congress), Minnesota",45294,"Congressional District 8 (111th Congress), Minnesota",969
+"G28001","2010","MS",,,"Mississippi","28",,,,,,,,,,,,,"01",,,,,,"50000US2801","Congressional District 1 (111th Congress), Mississippi",38259,"Congressional District 1 (111th Congress), Mississippi",1513
+"G28002","2010","MS",,,"Mississippi","28",,,,,,,,,,,,,"02",,,,,,"50000US2802","Congressional District 2 (111th Congress), Mississippi",30547,"Congressional District 2 (111th Congress), Mississippi",1189
+"G28003","2010","MS",,,"Mississippi","28",,,,,,,,,,,,,"03",,,,,,"50000US2803","Congressional District 3 (111th Congress), Mississippi",38457,"Congressional District 3 (111th Congress), Mississippi",1463
+"G28004","2010","MS",,,"Mississippi","28",,,,,,,,,,,,,"04",,,,,,"50000US2804","Congressional District 4 (111th Congress), Mississippi",40201,"Congressional District 4 (111th Congress), Mississippi",1231
+"G29001","2010","MO",,,"Missouri","29",,,,,,,,,,,,,"01",,,,,,"50000US2901","Congressional District 1 (111th Congress), Missouri",37440,"Congressional District 1 (111th Congress), Missouri",1269
+"G29002","2010","MO",,,"Missouri","29",,,,,,,,,,,,,"02",,,,,,"50000US2902","Congressional District 2 (111th Congress), Missouri",70146,"Congressional District 2 (111th Congress), Missouri",1759
+"G29003","2010","MO",,,"Missouri","29",,,,,,,,,,,,,"03",,,,,,"50000US2903","Congressional District 3 (111th Congress), Missouri",48868,"Congressional District 3 (111th Congress), Missouri",1675
+"G29004","2010","MO",,,"Missouri","29",,,,,,,,,,,,,"04",,,,,,"50000US2904","Congressional District 4 (111th Congress), Missouri",42113,"Congressional District 4 (111th Congress), Missouri",956
+"G29005","2010","MO",,,"Missouri","29",,,,,,,,,,,,,"05",,,,,,"50000US2905","Congressional District 5 (111th Congress), Missouri",43525,"Congressional District 5 (111th Congress), Missouri",1437
+"G29006","2010","MO",,,"Missouri","29",,,,,,,,,,,,,"06",,,,,,"50000US2906","Congressional District 6 (111th Congress), Missouri",50464,"Congressional District 6 (111th Congress), Missouri",1201
+"G29007","2010","MO",,,"Missouri","29",,,,,,,,,,,,,"07",,,,,,"50000US2907","Congressional District 7 (111th Congress), Missouri",38404,"Congressional District 7 (111th Congress), Missouri",1457
+"G29008","2010","MO",,,"Missouri","29",,,,,,,,,,,,,"08",,,,,,"50000US2908","Congressional District 8 (111th Congress), Missouri",35288,"Congressional District 8 (111th Congress), Missouri",1018
+"G29009","2010","MO",,,"Missouri","29",,,,,,,,,,,,,"09",,,,,,"50000US2909","Congressional District 9 (111th Congress), Missouri",41829,"Congressional District 9 (111th Congress), Missouri",1348
+"G30000","2010","MT",,,"Montana","30",,,,,,,,,,,,,"00",,,,,,"50000US3000","Congressional District (at Large) (111th Congress), Montana",42666,"Congressional District (at Large) (111th Congress), Montana",1130
+"G31001","2010","NE",,,"Nebraska","31",,,,,,,,,,,,,"01",,,,,,"50000US3101","Congressional District 1 (111th Congress), Nebraska",49602,"Congressional District 1 (111th Congress), Nebraska",1430
+"G31002","2010","NE",,,"Nebraska","31",,,,,,,,,,,,,"02",,,,,,"50000US3102","Congressional District 2 (111th Congress), Nebraska",52306,"Congressional District 2 (111th Congress), Nebraska",1370
+"G31003","2010","NE",,,"Nebraska","31",,,,,,,,,,,,,"03",,,,,,"50000US3103","Congressional District 3 (111th Congress), Nebraska",43757,"Congressional District 3 (111th Congress), Nebraska",1311
+"G32001","2010","NV",,,"Nevada","32",,,,,,,,,,,,,"01",,,,,,"50000US3201","Congressional District 1 (111th Congress), Nevada",43916,"Congressional District 1 (111th Congress), Nevada",1817
+"G32002","2010","NV",,,"Nevada","32",,,,,,,,,,,,,"02",,,,,,"50000US3202","Congressional District 2 (111th Congress), Nevada",49352,"Congressional District 2 (111th Congress), Nevada",2388
+"G32003","2010","NV",,,"Nevada","32",,,,,,,,,,,,,"03",,,,,,"50000US3203","Congressional District 3 (111th Congress), Nevada",57239,"Congressional District 3 (111th Congress), Nevada",1579
+"G33001","2010","NH",,,"New Hampshire","33",,,,,,,,,,,,,"01",,,,,,"50000US3301","Congressional District 1 (111th Congress), New Hampshire",61948,"Congressional District 1 (111th Congress), New Hampshire",1344
+"G33002","2010","NH",,,"New Hampshire","33",,,,,,,,,,,,,"02",,,,,,"50000US3302","Congressional District 2 (111th Congress), New Hampshire",59729,"Congressional District 2 (111th Congress), New Hampshire",2315
+"G34001","2010","NJ",,,"New Jersey","34",,,,,,,,,,,,,"01",,,,,,"50000US3401","Congressional District 1 (111th Congress), New Jersey",58089,"Congressional District 1 (111th Congress), New Jersey",2528
+"G34002","2010","NJ",,,"New Jersey","34",,,,,,,,,,,,,"02",,,,,,"50000US3402","Congressional District 2 (111th Congress), New Jersey",55993,"Congressional District 2 (111th Congress), New Jersey",1895
+"G34003","2010","NJ",,,"New Jersey","34",,,,,,,,,,,,,"03",,,,,,"50000US3403","Congressional District 3 (111th Congress), New Jersey",70743,"Congressional District 3 (111th Congress), New Jersey",1517
+"G34004","2010","NJ",,,"New Jersey","34",,,,,,,,,,,,,"04",,,,,,"50000US3404","Congressional District 4 (111th Congress), New Jersey",64265,"Congressional District 4 (111th Congress), New Jersey",2283
+"G34005","2010","NJ",,,"New Jersey","34",,,,,,,,,,,,,"05",,,,,,"50000US3405","Congressional District 5 (111th Congress), New Jersey",90587,"Congressional District 5 (111th Congress), New Jersey",1819
+"G34006","2010","NJ",,,"New Jersey","34",,,,,,,,,,,,,"06",,,,,,"50000US3406","Congressional District 6 (111th Congress), New Jersey",69417,"Congressional District 6 (111th Congress), New Jersey",2762
+"G34007","2010","NJ",,,"New Jersey","34",,,,,,,,,,,,,"07",,,,,,"50000US3407","Congressional District 7 (111th Congress), New Jersey",94843,"Congressional District 7 (111th Congress), New Jersey",3377
+"G34008","2010","NJ",,,"New Jersey","34",,,,,,,,,,,,,"08",,,,,,"50000US3408","Congressional District 8 (111th Congress), New Jersey",60473,"Congressional District 8 (111th Congress), New Jersey",2104
+"G34009","2010","NJ",,,"New Jersey","34",,,,,,,,,,,,,"09",,,,,,"50000US3409","Congressional District 9 (111th Congress), New Jersey",61224,"Congressional District 9 (111th Congress), New Jersey",1657
+"G34010","2010","NJ",,,"New Jersey","34",,,,,,,,,,,,,"10",,,,,,"50000US3410","Congressional District 10 (111th Congress), New Jersey",45313,"Congressional District 10 (111th Congress), New Jersey",1524
+"G34011","2010","NJ",,,"New Jersey","34",,,,,,,,,,,,,"11",,,,,,"50000US3411","Congressional District 11 (111th Congress), New Jersey",93514,"Congressional District 11 (111th Congress), New Jersey",2620
+"G34012","2010","NJ",,,"New Jersey","34",,,,,,,,,,,,,"12",,,,,,"50000US3412","Congressional District 12 (111th Congress), New Jersey",86685,"Congressional District 12 (111th Congress), New Jersey",2494
+"G34013","2010","NJ",,,"New Jersey","34",,,,,,,,,,,,,"13",,,,,,"50000US3413","Congressional District 13 (111th Congress), New Jersey",49264,"Congressional District 13 (111th Congress), New Jersey",2818
+"G35001","2010","NM",,,"New Mexico","35",,,,,,,,,,,,,"01",,,,,,"50000US3501","Congressional District 1 (111th Congress), New Mexico",46811,"Congressional District 1 (111th Congress), New Mexico",1511
+"G35002","2010","NM",,,"New Mexico","35",,,,,,,,,,,,,"02",,,,,,"50000US3502","Congressional District 2 (111th Congress), New Mexico",36439,"Congressional District 2 (111th Congress), New Mexico",1402
+"G35003","2010","NM",,,"New Mexico","35",,,,,,,,,,,,,"03",,,,,,"50000US3503","Congressional District 3 (111th Congress), New Mexico",43179,"Congressional District 3 (111th Congress), New Mexico",1645
+"G36001","2010","NY",,,"New York","36",,,,,,,,,,,,,"01",,,,,,"50000US3601","Congressional District 1 (111th Congress), New York",80674,"Congressional District 1 (111th Congress), New York",1904
+"G36002","2010","NY",,,"New York","36",,,,,,,,,,,,,"02",,,,,,"50000US3602","Congressional District 2 (111th Congress), New York",84909,"Congressional District 2 (111th Congress), New York",3158
+"G36003","2010","NY",,,"New York","36",,,,,,,,,,,,,"03",,,,,,"50000US3603","Congressional District 3 (111th Congress), New York",92064,"Congressional District 3 (111th Congress), New York",2538
+"G36004","2010","NY",,,"New York","36",,,,,,,,,,,,,"04",,,,,,"50000US3604","Congressional District 4 (111th Congress), New York",82102,"Congressional District 4 (111th Congress), New York",3742
+"G36005","2010","NY",,,"New York","36",,,,,,,,,,,,,"05",,,,,,"50000US3605","Congressional District 5 (111th Congress), New York",61429,"Congressional District 5 (111th Congress), New York",2056
+"G36006","2010","NY",,,"New York","36",,,,,,,,,,,,,"06",,,,,,"50000US3606","Congressional District 6 (111th Congress), New York",55769,"Congressional District 6 (111th Congress), New York",1494
+"G36007","2010","NY",,,"New York","36",,,,,,,,,,,,,"07",,,,,,"50000US3607","Congressional District 7 (111th Congress), New York",45918,"Congressional District 7 (111th Congress), New York",1312
+"G36008","2010","NY",,,"New York","36",,,,,,,,,,,,,"08",,,,,,"50000US3608","Congressional District 8 (111th Congress), New York",63146,"Congressional District 8 (111th Congress), New York",2904
+"G36009","2010","NY",,,"New York","36",,,,,,,,,,,,,"09",,,,,,"50000US3609","Congressional District 9 (111th Congress), New York",54716,"Congressional District 9 (111th Congress), New York",2483
+"G36010","2010","NY",,,"New York","36",,,,,,,,,,,,,"10",,,,,,"50000US3610","Congressional District 10 (111th Congress), New York",41602,"Congressional District 10 (111th Congress), New York",1340
+"G36011","2010","NY",,,"New York","36",,,,,,,,,,,,,"11",,,,,,"50000US3611","Congressional District 11 (111th Congress), New York",45070,"Congressional District 11 (111th Congress), New York",2072
+"G36012","2010","NY",,,"New York","36",,,,,,,,,,,,,"12",,,,,,"50000US3612","Congressional District 12 (111th Congress), New York",41891,"Congressional District 12 (111th Congress), New York",1522
+"G36013","2010","NY",,,"New York","36",,,,,,,,,,,,,"13",,,,,,"50000US3613","Congressional District 13 (111th Congress), New York",60445,"Congressional District 13 (111th Congress), New York",2599
+"G36014","2010","NY",,,"New York","36",,,,,,,,,,,,,"14",,,,,,"50000US3614","Congressional District 14 (111th Congress), New York",75348,"Congressional District 14 (111th Congress), New York",2302
+"G36015","2010","NY",,,"New York","36",,,,,,,,,,,,,"15",,,,,,"50000US3615","Congressional District 15 (111th Congress), New York",39745,"Congressional District 15 (111th Congress), New York",1658
+"G36016","2010","NY",,,"New York","36",,,,,,,,,,,,,"16",,,,,,"50000US3616","Congressional District 16 (111th Congress), New York",23773,"Congressional District 16 (111th Congress), New York",1548
+"G36017","2010","NY",,,"New York","36",,,,,,,,,,,,,"17",,,,,,"50000US3617","Congressional District 17 (111th Congress), New York",53673,"Congressional District 17 (111th Congress), New York",2153
+"G36018","2010","NY",,,"New York","36",,,,,,,,,,,,,"18",,,,,,"50000US3618","Congressional District 18 (111th Congress), New York",84607,"Congressional District 18 (111th Congress), New York",4127
+"G36019","2010","NY",,,"New York","36",,,,,,,,,,,,,"19",,,,,,"50000US3619","Congressional District 19 (111th Congress), New York",77920,"Congressional District 19 (111th Congress), New York",2639
+"G36020","2010","NY",,,"New York","36",,,,,,,,,,,,,"20",,,,,,"50000US3620","Congressional District 20 (111th Congress), New York",58359,"Congressional District 20 (111th Congress), New York",2321
+"G36021","2010","NY",,,"New York","36",,,,,,,,,,,,,"21",,,,,,"50000US3621","Congressional District 21 (111th Congress), New York",50627,"Congressional District 21 (111th Congress), New York",1154
+"G36022","2010","NY",,,"New York","36",,,,,,,,,,,,,"22",,,,,,"50000US3622","Congressional District 22 (111th Congress), New York",47836,"Congressional District 22 (111th Congress), New York",1990
+"G36023","2010","NY",,,"New York","36",,,,,,,,,,,,,"23",,,,,,"50000US3623","Congressional District 23 (111th Congress), New York",43709,"Congressional District 23 (111th Congress), New York",1111
+"G36024","2010","NY",,,"New York","36",,,,,,,,,,,,,"24",,,,,,"50000US3624","Congressional District 24 (111th Congress), New York",47477,"Congressional District 24 (111th Congress), New York",1157
+"G36025","2010","NY",,,"New York","36",,,,,,,,,,,,,"25",,,,,,"50000US3625","Congressional District 25 (111th Congress), New York",51597,"Congressional District 25 (111th Congress), New York",1017
+"G36026","2010","NY",,,"New York","36",,,,,,,,,,,,,"26",,,,,,"50000US3626","Congressional District 26 (111th Congress), New York",52868,"Congressional District 26 (111th Congress), New York",1605
+"G36027","2010","NY",,,"New York","36",,,,,,,,,,,,,"27",,,,,,"50000US3627","Congressional District 27 (111th Congress), New York",45274,"Congressional District 27 (111th Congress), New York",1307
+"G36028","2010","NY",,,"New York","36",,,,,,,,,,,,,"28",,,,,,"50000US3628","Congressional District 28 (111th Congress), New York",35726,"Congressional District 28 (111th Congress), New York",1174
+"G36029","2010","NY",,,"New York","36",,,,,,,,,,,,,"29",,,,,,"50000US3629","Congressional District 29 (111th Congress), New York",51871,"Congressional District 29 (111th Congress), New York",915
+"G37001","2010","NC",,,"North Carolina","37",,,,,,,,,,,,,"01",,,,,,"50000US3701","Congressional District 1 (111th Congress), North Carolina",32370,"Congressional District 1 (111th Congress), North Carolina",893
+"G37002","2010","NC",,,"North Carolina","37",,,,,,,,,,,,,"02",,,,,,"50000US3702","Congressional District 2 (111th Congress), North Carolina",41233,"Congressional District 2 (111th Congress), North Carolina",1416
+"G37003","2010","NC",,,"North Carolina","37",,,,,,,,,,,,,"03",,,,,,"50000US3703","Congressional District 3 (111th Congress), North Carolina",45390,"Congressional District 3 (111th Congress), North Carolina",1287
+"G37004","2010","NC",,,"North Carolina","37",,,,,,,,,,,,,"04",,,,,,"50000US3704","Congressional District 4 (111th Congress), North Carolina",63543,"Congressional District 4 (111th Congress), North Carolina",2507
+"G37005","2010","NC",,,"North Carolina","37",,,,,,,,,,,,,"05",,,,,,"50000US3705","Congressional District 5 (111th Congress), North Carolina",40801,"Congressional District 5 (111th Congress), North Carolina",1084
+"G37006","2010","NC",,,"North Carolina","37",,,,,,,,,,,,,"06",,,,,,"50000US3706","Congressional District 6 (111th Congress), North Carolina",46040,"Congressional District 6 (111th Congress), North Carolina",1641
+"G37007","2010","NC",,,"North Carolina","37",,,,,,,,,,,,,"07",,,,,,"50000US3707","Congressional District 7 (111th Congress), North Carolina",40171,"Congressional District 7 (111th Congress), North Carolina",1283
+"G37008","2010","NC",,,"North Carolina","37",,,,,,,,,,,,,"08",,,,,,"50000US3708","Congressional District 8 (111th Congress), North Carolina",41256,"Congressional District 8 (111th Congress), North Carolina",963
+"G37009","2010","NC",,,"North Carolina","37",,,,,,,,,,,,,"09",,,,,,"50000US3709","Congressional District 9 (111th Congress), North Carolina",59081,"Congressional District 9 (111th Congress), North Carolina",1642
+"G37010","2010","NC",,,"North Carolina","37",,,,,,,,,,,,,"10",,,,,,"50000US3710","Congressional District 10 (111th Congress), North Carolina",40262,"Congressional District 10 (111th Congress), North Carolina",1132
+"G37011","2010","NC",,,"North Carolina","37",,,,,,,,,,,,,"11",,,,,,"50000US3711","Congressional District 11 (111th Congress), North Carolina",39650,"Congressional District 11 (111th Congress), North Carolina",1128
+"G37012","2010","NC",,,"North Carolina","37",,,,,,,,,,,,,"12",,,,,,"50000US3712","Congressional District 12 (111th Congress), North Carolina",36266,"Congressional District 12 (111th Congress), North Carolina",1235
+"G37013","2010","NC",,,"North Carolina","37",,,,,,,,,,,,,"13",,,,,,"50000US3713","Congressional District 13 (111th Congress), North Carolina",43866,"Congressional District 13 (111th Congress), North Carolina",1422
+"G38000","2010","ND",,,"North Dakota","38",,,,,,,,,,,,,"00",,,,,,"50000US3800","Congressional District (at Large) (111th Congress), North Dakota",48670,"Congressional District (at Large) (111th Congress), North Dakota",1575
+"G39001","2010","OH",,,"Ohio","39",,,,,,,,,,,,,"01",,,,,,"50000US3901","Congressional District 1 (111th Congress), Ohio",39847,"Congressional District 1 (111th Congress), Ohio",1833
+"G39002","2010","OH",,,"Ohio","39",,,,,,,,,,,,,"02",,,,,,"50000US3902","Congressional District 2 (111th Congress), Ohio",56052,"Congressional District 2 (111th Congress), Ohio",1817
+"G39003","2010","OH",,,"Ohio","39",,,,,,,,,,,,,"03",,,,,,"50000US3903","Congressional District 3 (111th Congress), Ohio",43212,"Congressional District 3 (111th Congress), Ohio",1726
+"G39004","2010","OH",,,"Ohio","39",,,,,,,,,,,,,"04",,,,,,"50000US3904","Congressional District 4 (111th Congress), Ohio",43186,"Congressional District 4 (111th Congress), Ohio",1489
+"G39005","2010","OH",,,"Ohio","39",,,,,,,,,,,,,"05",,,,,,"50000US3905","Congressional District 5 (111th Congress), Ohio",45123,"Congressional District 5 (111th Congress), Ohio",1082
+"G39006","2010","OH",,,"Ohio","39",,,,,,,,,,,,,"06",,,,,,"50000US3906","Congressional District 6 (111th Congress), Ohio",38543,"Congressional District 6 (111th Congress), Ohio",1321
+"G39007","2010","OH",,,"Ohio","39",,,,,,,,,,,,,"07",,,,,,"50000US3907","Congressional District 7 (111th Congress), Ohio",46633,"Congressional District 7 (111th Congress), Ohio",1389
+"G39008","2010","OH",,,"Ohio","39",,,,,,,,,,,,,"08",,,,,,"50000US3908","Congressional District 8 (111th Congress), Ohio",48985,"Congressional District 8 (111th Congress), Ohio",1454
+"G39009","2010","OH",,,"Ohio","39",,,,,,,,,,,,,"09",,,,,,"50000US3909","Congressional District 9 (111th Congress), Ohio",41066,"Congressional District 9 (111th Congress), Ohio",1221
+"G39010","2010","OH",,,"Ohio","39",,,,,,,,,,,,,"10",,,,,,"50000US3910","Congressional District 10 (111th Congress), Ohio",44192,"Congressional District 10 (111th Congress), Ohio",1459
+"G39011","2010","OH",,,"Ohio","39",,,,,,,,,,,,,"11",,,,,,"50000US3911","Congressional District 11 (111th Congress), Ohio",32373,"Congressional District 11 (111th Congress), Ohio",1405
+"G39012","2010","OH",,,"Ohio","39",,,,,,,,,,,,,"12",,,,,,"50000US3912","Congressional District 12 (111th Congress), Ohio",55411,"Congressional District 12 (111th Congress), Ohio",2112
+"G39013","2010","OH",,,"Ohio","39",,,,,,,,,,,,,"13",,,,,,"50000US3913","Congressional District 13 (111th Congress), Ohio",47483,"Congressional District 13 (111th Congress), Ohio",2116
+"G39014","2010","OH",,,"Ohio","39",,,,,,,,,,,,,"14",,,,,,"50000US3914","Congressional District 14 (111th Congress), Ohio",56087,"Congressional District 14 (111th Congress), Ohio",1224
+"G39015","2010","OH",,,"Ohio","39",,,,,,,,,,,,,"15",,,,,,"50000US3915","Congressional District 15 (111th Congress), Ohio",49672,"Congressional District 15 (111th Congress), Ohio",1506
+"G39016","2010","OH",,,"Ohio","39",,,,,,,,,,,,,"16",,,,,,"50000US3916","Congressional District 16 (111th Congress), Ohio",46099,"Congressional District 16 (111th Congress), Ohio",1123
+"G39017","2010","OH",,,"Ohio","39",,,,,,,,,,,,,"17",,,,,,"50000US3917","Congressional District 17 (111th Congress), Ohio",39734,"Congressional District 17 (111th Congress), Ohio",1429
+"G39018","2010","OH",,,"Ohio","39",,,,,,,,,,,,,"18",,,,,,"50000US3918","Congressional District 18 (111th Congress), Ohio",39155,"Congressional District 18 (111th Congress), Ohio",1131
+"G40001","2010","OK",,,"Oklahoma","40",,,,,,,,,,,,,"01",,,,,,"50000US4001","Congressional District 1 (111th Congress), Oklahoma",45677,"Congressional District 1 (111th Congress), Oklahoma",1416
+"G40002","2010","OK",,,"Oklahoma","40",,,,,,,,,,,,,"02",,,,,,"50000US4002","Congressional District 2 (111th Congress), Oklahoma",37011,"Congressional District 2 (111th Congress), Oklahoma",739
+"G40003","2010","OK",,,"Oklahoma","40",,,,,,,,,,,,,"03",,,,,,"50000US4003","Congressional District 3 (111th Congress), Oklahoma",41509,"Congressional District 3 (111th Congress), Oklahoma",838
+"G40004","2010","OK",,,"Oklahoma","40",,,,,,,,,,,,,"04",,,,,,"50000US4004","Congressional District 4 (111th Congress), Oklahoma",45876,"Congressional District 4 (111th Congress), Oklahoma",1289
+"G40005","2010","OK",,,"Oklahoma","40",,,,,,,,,,,,,"05",,,,,,"50000US4005","Congressional District 5 (111th Congress), Oklahoma",41262,"Congressional District 5 (111th Congress), Oklahoma",1065
+"G41001","2010","OR",,,"Oregon","41",,,,,,,,,,,,,"01",,,,,,"50000US4101","Congressional District 1 (111th Congress), Oregon",54824,"Congressional District 1 (111th Congress), Oregon",1688
+"G41002","2010","OR",,,"Oregon","41",,,,,,,,,,,,,"02",,,,,,"50000US4102","Congressional District 2 (111th Congress), Oregon",41302,"Congressional District 2 (111th Congress), Oregon",1071
+"G41003","2010","OR",,,"Oregon","41",,,,,,,,,,,,,"03",,,,,,"50000US4103","Congressional District 3 (111th Congress), Oregon",48726,"Congressional District 3 (111th Congress), Oregon",1347
+"G41004","2010","OR",,,"Oregon","41",,,,,,,,,,,,,"04",,,,,,"50000US4104","Congressional District 4 (111th Congress), Oregon",39835,"Congressional District 4 (111th Congress), Oregon",1203
+"G41005","2010","OR",,,"Oregon","41",,,,,,,,,,,,,"05",,,,,,"50000US4105","Congressional District 5 (111th Congress), Oregon",49629,"Congressional District 5 (111th Congress), Oregon",1432
+"G42001","2010","PA",,,"Pennsylvania","42",,,,,,,,,,,,,"01",,,,,,"50000US4201","Congressional District 1 (111th Congress), Pennsylvania",31259,"Congressional District 1 (111th Congress), Pennsylvania",1772
+"G42002","2010","PA",,,"Pennsylvania","42",,,,,,,,,,,,,"02",,,,,,"50000US4202","Congressional District 2 (111th Congress), Pennsylvania",34512,"Congressional District 2 (111th Congress), Pennsylvania",1824
+"G42003","2010","PA",,,"Pennsylvania","42",,,,,,,,,,,,,"03",,,,,,"50000US4203","Congressional District 3 (111th Congress), Pennsylvania",42639,"Congressional District 3 (111th Congress), Pennsylvania",1292
+"G42004","2010","PA",,,"Pennsylvania","42",,,,,,,,,,,,,"04",,,,,,"50000US4204","Congressional District 4 (111th Congress), Pennsylvania",54578,"Congressional District 4 (111th Congress), Pennsylvania",1355
+"G42005","2010","PA",,,"Pennsylvania","42",,,,,,,,,,,,,"05",,,,,,"50000US4205","Congressional District 5 (111th Congress), Pennsylvania",40730,"Congressional District 5 (111th Congress), Pennsylvania",831
+"G42006","2010","PA",,,"Pennsylvania","42",,,,,,,,,,,,,"06",,,,,,"50000US4206","Congressional District 6 (111th Congress), Pennsylvania",69222,"Congressional District 6 (111th Congress), Pennsylvania",2244
+"G42007","2010","PA",,,"Pennsylvania","42",,,,,,,,,,,,,"07",,,,,,"50000US4207","Congressional District 7 (111th Congress), Pennsylvania",69135,"Congressional District 7 (111th Congress), Pennsylvania",2446
+"G42008","2010","PA",,,"Pennsylvania","42",,,,,,,,,,,,,"08",,,,,,"50000US4208","Congressional District 8 (111th Congress), Pennsylvania",70008,"Congressional District 8 (111th Congress), Pennsylvania",2094
+"G42009","2010","PA",,,"Pennsylvania","42",,,,,,,,,,,,,"09",,,,,,"50000US4209","Congressional District 9 (111th Congress), Pennsylvania",45090,"Congressional District 9 (111th Congress), Pennsylvania",1395
+"G42010","2010","PA",,,"Pennsylvania","42",,,,,,,,,,,,,"10",,,,,,"50000US4210","Congressional District 10 (111th Congress), Pennsylvania",44684,"Congressional District 10 (111th Congress), Pennsylvania",1229
+"G42011","2010","PA",,,"Pennsylvania","42",,,,,,,,,,,,,"11",,,,,,"50000US4211","Congressional District 11 (111th Congress), Pennsylvania",43561,"Congressional District 11 (111th Congress), Pennsylvania",2021
+"G42012","2010","PA",,,"Pennsylvania","42",,,,,,,,,,,,,"12",,,,,,"50000US4212","Congressional District 12 (111th Congress), Pennsylvania",38581,"Congressional District 12 (111th Congress), Pennsylvania",1032
+"G42013","2010","PA",,,"Pennsylvania","42",,,,,,,,,,,,,"13",,,,,,"50000US4213","Congressional District 13 (111th Congress), Pennsylvania",58857,"Congressional District 13 (111th Congress), Pennsylvania",2238
+"G42014","2010","PA",,,"Pennsylvania","42",,,,,,,,,,,,,"14",,,,,,"50000US4214","Congressional District 14 (111th Congress), Pennsylvania",36084,"Congressional District 14 (111th Congress), Pennsylvania",1249
+"G42015","2010","PA",,,"Pennsylvania","42",,,,,,,,,,,,,"15",,,,,,"50000US4215","Congressional District 15 (111th Congress), Pennsylvania",55099,"Congressional District 15 (111th Congress), Pennsylvania",1304
+"G42016","2010","PA",,,"Pennsylvania","42",,,,,,,,,,,,,"16",,,,,,"50000US4216","Congressional District 16 (111th Congress), Pennsylvania",52893,"Congressional District 16 (111th Congress), Pennsylvania",1487
+"G42017","2010","PA",,,"Pennsylvania","42",,,,,,,,,,,,,"17",,,,,,"50000US4217","Congressional District 17 (111th Congress), Pennsylvania",50798,"Congressional District 17 (111th Congress), Pennsylvania",1319
+"G42018","2010","PA",,,"Pennsylvania","42",,,,,,,,,,,,,"18",,,,,,"50000US4218","Congressional District 18 (111th Congress), Pennsylvania",56507,"Congressional District 18 (111th Congress), Pennsylvania",1345
+"G42019","2010","PA",,,"Pennsylvania","42",,,,,,,,,,,,,"19",,,,,,"50000US4219","Congressional District 19 (111th Congress), Pennsylvania",56357,"Congressional District 19 (111th Congress), Pennsylvania",1644
+"G44001","2010","RI",,,"Rhode Island","44",,,,,,,,,,,,,"01",,,,,,"50000US4401","Congressional District 1 (111th Congress), Rhode Island",50272,"Congressional District 1 (111th Congress), Rhode Island",2118
+"G44002","2010","RI",,,"Rhode Island","44",,,,,,,,,,,,,"02",,,,,,"50000US4402","Congressional District 2 (111th Congress), Rhode Island",54390,"Congressional District 2 (111th Congress), Rhode Island",1824
+"G45001","2010","SC",,,"South Carolina","45",,,,,,,,,,,,,"01",,,,,,"50000US4501","Congressional District 1 (111th Congress), South Carolina",46879,"Congressional District 1 (111th Congress), South Carolina",895
+"G45002","2010","SC",,,"South Carolina","45",,,,,,,,,,,,,"02",,,,,,"50000US4502","Congressional District 2 (111th Congress), South Carolina",50887,"Congressional District 2 (111th Congress), South Carolina",1254
+"G45003","2010","SC",,,"South Carolina","45",,,,,,,,,,,,,"03",,,,,,"50000US4503","Congressional District 3 (111th Congress), South Carolina",38471,"Congressional District 3 (111th Congress), South Carolina",1777
+"G45004","2010","SC",,,"South Carolina","45",,,,,,,,,,,,,"04",,,,,,"50000US4504","Congressional District 4 (111th Congress), South Carolina",43238,"Congressional District 4 (111th Congress), South Carolina",1736
+"G45005","2010","SC",,,"South Carolina","45",,,,,,,,,,,,,"05",,,,,,"50000US4505","Congressional District 5 (111th Congress), South Carolina",38867,"Congressional District 5 (111th Congress), South Carolina",1562
+"G45006","2010","SC",,,"South Carolina","45",,,,,,,,,,,,,"06",,,,,,"50000US4506","Congressional District 6 (111th Congress), South Carolina",31502,"Congressional District 6 (111th Congress), South Carolina",901
+"G46000","2010","SD",,,"South Dakota","46",,,,,,,,,,,,,"00",,,,,,"50000US4600","Congressional District (at Large) (111th Congress), South Dakota",45904,"Congressional District (at Large) (111th Congress), South Dakota",1215
+"G47001","2010","TN",,,"Tennessee","47",,,,,,,,,,,,,"01",,,,,,"50000US4701","Congressional District 1 (111th Congress), Tennessee",35625,"Congressional District 1 (111th Congress), Tennessee",1176
+"G47002","2010","TN",,,"Tennessee","47",,,,,,,,,,,,,"02",,,,,,"50000US4702","Congressional District 2 (111th Congress), Tennessee",42095,"Congressional District 2 (111th Congress), Tennessee",1249
+"G47003","2010","TN",,,"Tennessee","47",,,,,,,,,,,,,"03",,,,,,"50000US4703","Congressional District 3 (111th Congress), Tennessee",40620,"Congressional District 3 (111th Congress), Tennessee",1234
+"G47004","2010","TN",,,"Tennessee","47",,,,,,,,,,,,,"04",,,,,,"50000US4704","Congressional District 4 (111th Congress), Tennessee",36301,"Congressional District 4 (111th Congress), Tennessee",1233
+"G47005","2010","TN",,,"Tennessee","47",,,,,,,,,,,,,"05",,,,,,"50000US4705","Congressional District 5 (111th Congress), Tennessee",44587,"Congressional District 5 (111th Congress), Tennessee",1250
+"G47006","2010","TN",,,"Tennessee","47",,,,,,,,,,,,,"06",,,,,,"50000US4706","Congressional District 6 (111th Congress), Tennessee",43712,"Congressional District 6 (111th Congress), Tennessee",1257
+"G47007","2010","TN",,,"Tennessee","47",,,,,,,,,,,,,"07",,,,,,"50000US4707","Congressional District 7 (111th Congress), Tennessee",58253,"Congressional District 7 (111th Congress), Tennessee",2396
+"G47008","2010","TN",,,"Tennessee","47",,,,,,,,,,,,,"08",,,,,,"50000US4708","Congressional District 8 (111th Congress), Tennessee",37427,"Congressional District 8 (111th Congress), Tennessee",1263
+"G47009","2010","TN",,,"Tennessee","47",,,,,,,,,,,,,"09",,,,,,"50000US4709","Congressional District 9 (111th Congress), Tennessee",37508,"Congressional District 9 (111th Congress), Tennessee",1649
+"G48001","2010","TX",,,"Texas","48",,,,,,,,,,,,,"01",,,,,,"50000US4801","Congressional District 1 (111th Congress), Texas",41351,"Congressional District 1 (111th Congress), Texas",909
+"G48002","2010","TX",,,"Texas","48",,,,,,,,,,,,,"02",,,,,,"50000US4802","Congressional District 2 (111th Congress), Texas",53617,"Congressional District 2 (111th Congress), Texas",1573
+"G48003","2010","TX",,,"Texas","48",,,,,,,,,,,,,"03",,,,,,"50000US4803","Congressional District 3 (111th Congress), Texas",66068,"Congressional District 3 (111th Congress), Texas",2076
+"G48004","2010","TX",,,"Texas","48",,,,,,,,,,,,,"04",,,,,,"50000US4804","Congressional District 4 (111th Congress), Texas",51584,"Congressional District 4 (111th Congress), Texas",1324
+"G48005","2010","TX",,,"Texas","48",,,,,,,,,,,,,"05",,,,,,"50000US4805","Congressional District 5 (111th Congress), Texas",46131,"Congressional District 5 (111th Congress), Texas",1341
+"G48006","2010","TX",,,"Texas","48",,,,,,,,,,,,,"06",,,,,,"50000US4806","Congressional District 6 (111th Congress), Texas",51287,"Congressional District 6 (111th Congress), Texas",1016
+"G48007","2010","TX",,,"Texas","48",,,,,,,,,,,,,"07",,,,,,"50000US4807","Congressional District 7 (111th Congress), Texas",70229,"Congressional District 7 (111th Congress), Texas",2053
+"G48008","2010","TX",,,"Texas","48",,,,,,,,,,,,,"08",,,,,,"50000US4808","Congressional District 8 (111th Congress), Texas",52247,"Congressional District 8 (111th Congress), Texas",1994
+"G48009","2010","TX",,,"Texas","48",,,,,,,,,,,,,"09",,,,,,"50000US4809","Congressional District 9 (111th Congress), Texas",37185,"Congressional District 9 (111th Congress), Texas",1104
+"G48010","2010","TX",,,"Texas","48",,,,,,,,,,,,,"10",,,,,,"50000US4810","Congressional District 10 (111th Congress), Texas",60802,"Congressional District 10 (111th Congress), Texas",1505
+"G48011","2010","TX",,,"Texas","48",,,,,,,,,,,,,"11",,,,,,"50000US4811","Congressional District 11 (111th Congress), Texas",41947,"Congressional District 11 (111th Congress), Texas",1381
+"G48012","2010","TX",,,"Texas","48",,,,,,,,,,,,,"12",,,,,,"50000US4812","Congressional District 12 (111th Congress), Texas",51049,"Congressional District 12 (111th Congress), Texas",1322
+"G48013","2010","TX",,,"Texas","48",,,,,,,,,,,,,"13",,,,,,"50000US4813","Congressional District 13 (111th Congress), Texas",42368,"Congressional District 13 (111th Congress), Texas",1429
+"G48014","2010","TX",,,"Texas","48",,,,,,,,,,,,,"14",,,,,,"50000US4814","Congressional District 14 (111th Congress), Texas",56312,"Congressional District 14 (111th Congress), Texas",2227
+"G48015","2010","TX",,,"Texas","48",,,,,,,,,,,,,"15",,,,,,"50000US4815","Congressional District 15 (111th Congress), Texas",35394,"Congressional District 15 (111th Congress), Texas",1426
+"G48016","2010","TX",,,"Texas","48",,,,,,,,,,,,,"16",,,,,,"50000US4816","Congressional District 16 (111th Congress), Texas",36185,"Congressional District 16 (111th Congress), Texas",1115
+"G48017","2010","TX",,,"Texas","48",,,,,,,,,,,,,"17",,,,,,"50000US4817","Congressional District 17 (111th Congress), Texas",42093,"Congressional District 17 (111th Congress), Texas",1268
+"G48018","2010","TX",,,"Texas","48",,,,,,,,,,,,,"18",,,,,,"50000US4818","Congressional District 18 (111th Congress), Texas",36991,"Congressional District 18 (111th Congress), Texas",1872
+"G48019","2010","TX",,,"Texas","48",,,,,,,,,,,,,"19",,,,,,"50000US4819","Congressional District 19 (111th Congress), Texas",41039,"Congressional District 19 (111th Congress), Texas",1172
+"G48020","2010","TX",,,"Texas","48",,,,,,,,,,,,,"20",,,,,,"50000US4820","Congressional District 20 (111th Congress), Texas",38859,"Congressional District 20 (111th Congress), Texas",1456
+"G48021","2010","TX",,,"Texas","48",,,,,,,,,,,,,"21",,,,,,"50000US4821","Congressional District 21 (111th Congress), Texas",58329,"Congressional District 21 (111th Congress), Texas",2609
+"G48022","2010","TX",,,"Texas","48",,,,,,,,,,,,,"22",,,,,,"50000US4822","Congressional District 22 (111th Congress), Texas",67196,"Congressional District 22 (111th Congress), Texas",1956
+"G48023","2010","TX",,,"Texas","48",,,,,,,,,,,,,"23",,,,,,"50000US4823","Congressional District 23 (111th Congress), Texas",47330,"Congressional District 23 (111th Congress), Texas",1659
+"G48024","2010","TX",,,"Texas","48",,,,,,,,,,,,,"24",,,,,,"50000US4824","Congressional District 24 (111th Congress), Texas",57031,"Congressional District 24 (111th Congress), Texas",2056
+"G48025","2010","TX",,,"Texas","48",,,,,,,,,,,,,"25",,,,,,"50000US4825","Congressional District 25 (111th Congress), Texas",47216,"Congressional District 25 (111th Congress), Texas",1644
+"G48026","2010","TX",,,"Texas","48",,,,,,,,,,,,,"26",,,,,,"50000US4826","Congressional District 26 (111th Congress), Texas",61158,"Congressional District 26 (111th Congress), Texas",1381
+"G48027","2010","TX",,,"Texas","48",,,,,,,,,,,,,"27",,,,,,"50000US4827","Congressional District 27 (111th Congress), Texas",36960,"Congressional District 27 (111th Congress), Texas",1379
+"G48028","2010","TX",,,"Texas","48",,,,,,,,,,,,,"28",,,,,,"50000US4828","Congressional District 28 (111th Congress), Texas",39839,"Congressional District 28 (111th Congress), Texas",1390
+"G48029","2010","TX",,,"Texas","48",,,,,,,,,,,,,"29",,,,,,"50000US4829","Congressional District 29 (111th Congress), Texas",36154,"Congressional District 29 (111th Congress), Texas",1665
+"G48030","2010","TX",,,"Texas","48",,,,,,,,,,,,,"30",,,,,,"50000US4830","Congressional District 30 (111th Congress), Texas",37668,"Congressional District 30 (111th Congress), Texas",1620
+"G48031","2010","TX",,,"Texas","48",,,,,,,,,,,,,"31",,,,,,"50000US4831","Congressional District 31 (111th Congress), Texas",55532,"Congressional District 31 (111th Congress), Texas",1239
+"G48032","2010","TX",,,"Texas","48",,,,,,,,,,,,,"32",,,,,,"50000US4832","Congressional District 32 (111th Congress), Texas",49919,"Congressional District 32 (111th Congress), Texas",1795
+"G49001","2010","UT",,,"Utah","49",,,,,,,,,,,,,"01",,,,,,"50000US4901","Congressional District 1 (111th Congress), Utah",54224,"Congressional District 1 (111th Congress), Utah",1484
+"G49002","2010","UT",,,"Utah","49",,,,,,,,,,,,,"02",,,,,,"50000US4902","Congressional District 2 (111th Congress), Utah",54514,"Congressional District 2 (111th Congress), Utah",1141
+"G49003","2010","UT",,,"Utah","49",,,,,,,,,,,,,"03",,,,,,"50000US4903","Congressional District 3 (111th Congress), Utah",55479,"Congressional District 3 (111th Congress), Utah",1315
+"G50000","2010","VT",,,"Vermont","50",,,,,,,,,,,,,"00",,,,,,"50000US5000","Congressional District (at Large) (111th Congress), Vermont",49406,"Congressional District (at Large) (111th Congress), Vermont",1483
+"G51001","2010","VA",,,"Virginia","51",,,,,,,,,,,,,"01",,,,,,"50000US5101","Congressional District 1 (111th Congress), Virginia",68777,"Congressional District 1 (111th Congress), Virginia",2294
+"G51002","2010","VA",,,"Virginia","51",,,,,,,,,,,,,"02",,,,,,"50000US5102","Congressional District 2 (111th Congress), Virginia",57142,"Congressional District 2 (111th Congress), Virginia",1333
+"G51003","2010","VA",,,"Virginia","51",,,,,,,,,,,,,"03",,,,,,"50000US5103","Congressional District 3 (111th Congress), Virginia",41485,"Congressional District 3 (111th Congress), Virginia",1089
+"G51004","2010","VA",,,"Virginia","51",,,,,,,,,,,,,"04",,,,,,"50000US5104","Congressional District 4 (111th Congress), Virginia",58773,"Congressional District 4 (111th Congress), Virginia",2047
+"G51005","2010","VA",,,"Virginia","51",,,,,,,,,,,,,"05",,,,,,"50000US5105","Congressional District 5 (111th Congress), Virginia",41134,"Congressional District 5 (111th Congress), Virginia",1117
+"G51006","2010","VA",,,"Virginia","51",,,,,,,,,,,,,"06",,,,,,"50000US5106","Congressional District 6 (111th Congress), Virginia",45342,"Congressional District 6 (111th Congress), Virginia",1182
+"G51007","2010","VA",,,"Virginia","51",,,,,,,,,,,,,"07",,,,,,"50000US5107","Congressional District 7 (111th Congress), Virginia",61653,"Congressional District 7 (111th Congress), Virginia",1382
+"G51008","2010","VA",,,"Virginia","51",,,,,,,,,,,,,"08",,,,,,"50000US5108","Congressional District 8 (111th Congress), Virginia",88668,"Congressional District 8 (111th Congress), Virginia",2796
+"G51009","2010","VA",,,"Virginia","51",,,,,,,,,,,,,"09",,,,,,"50000US5109","Congressional District 9 (111th Congress), Virginia",35201,"Congressional District 9 (111th Congress), Virginia",1093
+"G51010","2010","VA",,,"Virginia","51",,,,,,,,,,,,,"10",,,,,,"50000US5110","Congressional District 10 (111th Congress), Virginia",98789,"Congressional District 10 (111th Congress), Virginia",3797
+"G51011","2010","VA",,,"Virginia","51",,,,,,,,,,,,,"11",,,,,,"50000US5111","Congressional District 11 (111th Congress), Virginia",105560,"Congressional District 11 (111th Congress), Virginia",2306
+"G53001","2010","WA",,,"Washington","53",,,,,,,,,,,,,"01",,,,,,"50000US5301","Congressional District 1 (111th Congress), Washington",72438,"Congressional District 1 (111th Congress), Washington",2389
+"G53002","2010","WA",,,"Washington","53",,,,,,,,,,,,,"02",,,,,,"50000US5302","Congressional District 2 (111th Congress), Washington",54449,"Congressional District 2 (111th Congress), Washington",1810
+"G53003","2010","WA",,,"Washington","53",,,,,,,,,,,,,"03",,,,,,"50000US5303","Congressional District 3 (111th Congress), Washington",51599,"Congressional District 3 (111th Congress), Washington",891
+"G53004","2010","WA",,,"Washington","53",,,,,,,,,,,,,"04",,,,,,"50000US5304","Congressional District 4 (111th Congress), Washington",46591,"Congressional District 4 (111th Congress), Washington",2130
+"G53005","2010","WA",,,"Washington","53",,,,,,,,,,,,,"05",,,,,,"50000US5305","Congressional District 5 (111th Congress), Washington",44048,"Congressional District 5 (111th Congress), Washington",1296
+"G53006","2010","WA",,,"Washington","53",,,,,,,,,,,,,"06",,,,,,"50000US5306","Congressional District 6 (111th Congress), Washington",46683,"Congressional District 6 (111th Congress), Washington",1229
+"G53007","2010","WA",,,"Washington","53",,,,,,,,,,,,,"07",,,,,,"50000US5307","Congressional District 7 (111th Congress), Washington",59358,"Congressional District 7 (111th Congress), Washington",2335
+"G53008","2010","WA",,,"Washington","53",,,,,,,,,,,,,"08",,,,,,"50000US5308","Congressional District 8 (111th Congress), Washington",79260,"Congressional District 8 (111th Congress), Washington",2774
+"G53009","2010","WA",,,"Washington","53",,,,,,,,,,,,,"09",,,,,,"50000US5309","Congressional District 9 (111th Congress), Washington",54647,"Congressional District 9 (111th Congress), Washington",1784
+"G54001","2010","WV",,,"West Virginia","54",,,,,,,,,,,,,"01",,,,,,"50000US5401","Congressional District 1 (111th Congress), West Virginia",37859,"Congressional District 1 (111th Congress), West Virginia",1390
+"G54002","2010","WV",,,"West Virginia","54",,,,,,,,,,,,,"02",,,,,,"50000US5402","Congressional District 2 (111th Congress), West Virginia",41921,"Congressional District 2 (111th Congress), West Virginia",988
+"G54003","2010","WV",,,"West Virginia","54",,,,,,,,,,,,,"03",,,,,,"50000US5403","Congressional District 3 (111th Congress), West Virginia",33922,"Congressional District 3 (111th Congress), West Virginia",1489
+"G55001","2010","WI",,,"Wisconsin","55",,,,,,,,,,,,,"01",,,,,,"50000US5501","Congressional District 1 (111th Congress), Wisconsin",55165,"Congressional District 1 (111th Congress), Wisconsin",1472
+"G55002","2010","WI",,,"Wisconsin","55",,,,,,,,,,,,,"02",,,,,,"50000US5502","Congressional District 2 (111th Congress), Wisconsin",54199,"Congressional District 2 (111th Congress), Wisconsin",1559
+"G55003","2010","WI",,,"Wisconsin","55",,,,,,,,,,,,,"03",,,,,,"50000US5503","Congressional District 3 (111th Congress), Wisconsin",46668,"Congressional District 3 (111th Congress), Wisconsin",990
+"G55004","2010","WI",,,"Wisconsin","55",,,,,,,,,,,,,"04",,,,,,"50000US5504","Congressional District 4 (111th Congress), Wisconsin",34138,"Congressional District 4 (111th Congress), Wisconsin",1155
+"G55005","2010","WI",,,"Wisconsin","55",,,,,,,,,,,,,"05",,,,,,"50000US5505","Congressional District 5 (111th Congress), Wisconsin",64869,"Congressional District 5 (111th Congress), Wisconsin",1887
+"G55006","2010","WI",,,"Wisconsin","55",,,,,,,,,,,,,"06",,,,,,"50000US5506","Congressional District 6 (111th Congress), Wisconsin",48999,"Congressional District 6 (111th Congress), Wisconsin",1017
+"G55007","2010","WI",,,"Wisconsin","55",,,,,,,,,,,,,"07",,,,,,"50000US5507","Congressional District 7 (111th Congress), Wisconsin",43591,"Congressional District 7 (111th Congress), Wisconsin",959
+"G55008","2010","WI",,,"Wisconsin","55",,,,,,,,,,,,,"08",,,,,,"50000US5508","Congressional District 8 (111th Congress), Wisconsin",47469,"Congressional District 8 (111th Congress), Wisconsin",1241
+"G56000","2010","WY",,,"Wyoming","56",,,,,,,,,,,,,"00",,,,,,"50000US5600","Congressional District (at Large) (111th Congress), Wyoming",53512,"Congressional District (at Large) (111th Congress), Wyoming",1894
+"G72098","2010","PR",,,"Puerto Rico","72",,,,,,,,,,,,,"98",,,,,,"50000US7298","Resident Commissioner District (at Large) (111th Congress), Puerto Rico",18862,"Resident Commissioner District (at Large) (111th Congress), Puerto Rico",324
