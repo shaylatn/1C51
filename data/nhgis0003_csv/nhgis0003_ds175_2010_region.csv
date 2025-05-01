@@ -1,0 +1,5 @@
+GISJOIN,YEAR,STUSAB,REGION,REGIONA,DIVISIONA,STATEA,COUNTYA,COUSUBA,PLACEA,AIANHHA,ANRCA,CBSAA,CSAA,METDIVA,NECTAA,CNECTAA,NECTADIVA,UAA,CDCURRA,SDELMA,SDSECA,SDUNIA,PCI,PUMAA,GEOID,NAME_E,I25E001,NAME_M,I25M001
+"G1","2010","US","Northeast Region","1",,,,,,,,,,,,,,,,,,,,,"02000US1","Northeast Region",55952,"Northeast Region",201
+"G2","2010","US","Midwest Region","2",,,,,,,,,,,,,,,,,,,,,"02000US2","Midwest Region",47894,"Midwest Region",155
+"G3","2010","US","South Region","3",,,,,,,,,,,,,,,,,,,,,"02000US3","South Region",46095,"South Region",107
+"G4","2010","US","West Region","4",,,,,,,,,,,,,,,,,,,,,"02000US4","West Region",53686,"West Region",186

@@ -1,0 +1,53 @@
+GISJOIN,YEAR,STUSAB,REGIONA,DIVISIONA,STATE,STATEA,COUNTYA,COUSUBA,PLACEA,AIANHHA,ANRCA,CBSAA,CSAA,METDIVA,NECTAA,CNECTAA,NECTADIVA,UAA,CDCURRA,SDELMA,SDSECA,SDUNIA,PCI,PUMAA,GEOID,NAME_E,I25E001,NAME_M,I25M001
+"G010","2010","AL",,,"Alabama","01",,,,,,,,,,,,,,,,,,,"04000US01","Alabama",40474,"Alabama",472
+"G020","2010","AK",,,"Alaska","02",,,,,,,,,,,,,,,,,,,"04000US02","Alaska",64576,"Alaska",2085
+"G040","2010","AZ",,,"Arizona","04",,,,,,,,,,,,,,,,,,,"04000US04","Arizona",46789,"Arizona",531
+"G050","2010","AR",,,"Arkansas","05",,,,,,,,,,,,,,,,,,,"04000US05","Arkansas",38307,"Arkansas",643
+"G060","2010","CA",,,"California","06",,,,,,,,,,,,,,,,,,,"04000US06","California",57708,"California",354
+"G080","2010","CO",,,"Colorado","08",,,,,,,,,,,,,,,,,,,"04000US08","Colorado",54046,"Colorado",729
+"G090","2010","CT",,,"Connecticut","09",,,,,,,,,,,,,,,,,,,"04000US09","Connecticut",64032,"Connecticut",1092
+"G100","2010","DE",,,"Delaware","10",,,,,,,,,,,,,,,,,,,"04000US10","Delaware",55847,"Delaware",1499
+"G110","2010","DC",,,"District Of Columbia","11",,,,,,,,,,,,,,,,,,,"04000US11","District of Columbia",60903,"District of Columbia",1540
+"G120","2010","FL",,,"Florida","12",,,,,,,,,,,,,,,,,,,"04000US12","Florida",44409,"Florida",324
+"G130","2010","GA",,,"Georgia","13",,,,,,,,,,,,,,,,,,,"04000US13","Georgia",46430,"Georgia",470
+"G150","2010","HI",,,"Hawaii","15",,,,,,,,,,,,,,,,,,,"04000US15","Hawaii",63030,"Hawaii",1556
+"G160","2010","ID",,,"Idaho","16",,,,,,,,,,,,,,,,,,,"04000US16","Idaho",43490,"Idaho",1005
+"G170","2010","IL",,,"Illinois","17",,,,,,,,,,,,,,,,,,,"04000US17","Illinois",52972,"Illinois",439
+"G180","2010","IN",,,"Indiana","18",,,,,,,,,,,,,,,,,,,"04000US18","Indiana",44613,"Indiana",452
+"G190","2010","IA",,,"Iowa","19",,,,,,,,,,,,,,,,,,,"04000US19","Iowa",47961,"Iowa",647
+"G200","2010","KS",,,"Kansas","20",,,,,,,,,,,,,,,,,,,"04000US20","Kansas",48257,"Kansas",870
+"G210","2010","KY",,,"Kentucky","21",,,,,,,,,,,,,,,,,,,"04000US21","Kentucky",40062,"Kentucky",502
+"G220","2010","LA",,,"Louisiana","22",,,,,,,,,,,,,,,,,,,"04000US22","Louisiana",42505,"Louisiana",707
+"G230","2010","ME",,,"Maine","23",,,,,,,,,,,,,,,,,,,"04000US23","Maine",45815,"Maine",953
+"G240","2010","MD",,,"Maryland","24",,,,,,,,,,,,,,,,,,,"04000US24","Maryland",68854,"Maryland",922
+"G250","2010","MA",,,"Massachusetts","25",,,,,,,,,,,,,,,,,,,"04000US25","Massachusetts",62072,"Massachusetts",408
+"G260","2010","MI",,,"Michigan","26",,,,,,,,,,,,,,,,,,,"04000US26","Michigan",45413,"Michigan",306
+"G270","2010","MN",,,"Minnesota","27",,,,,,,,,,,,,,,,,,,"04000US27","Minnesota",55459,"Minnesota",457
+"G280","2010","MS",,,"Mississippi","28",,,,,,,,,,,,,,,,,,,"04000US28","Mississippi",36851,"Mississippi",635
+"G290","2010","MO",,,"Missouri","29",,,,,,,,,,,,,,,,,,,"04000US29","Missouri",44301,"Missouri",507
+"G300","2010","MT",,,"Montana","30",,,,,,,,,,,,,,,,,,,"04000US30","Montana",42666,"Montana",1130
+"G310","2010","NE",,,"Nebraska","31",,,,,,,,,,,,,,,,,,,"04000US31","Nebraska",48408,"Nebraska",904
+"G320","2010","NV",,,"Nevada","32",,,,,,,,,,,,,,,,,,,"04000US32","Nevada",51001,"Nevada",792
+"G330","2010","NH",,,"New Hampshire","33",,,,,,,,,,,,,,,,,,,"04000US33","New Hampshire",61042,"New Hampshire",1147
+"G340","2010","NJ",,,"New Jersey","34",,,,,,,,,,,,,,,,,,,"04000US34","New Jersey",67681,"New Jersey",763
+"G350","2010","NM",,,"New Mexico","35",,,,,,,,,,,,,,,,,,,"04000US35","New Mexico",42090,"New Mexico",734
+"G360","2010","NY",,,"New York","36",,,,,,,,,,,,,,,,,,,"04000US36","New York",54148,"New York",376
+"G370","2010","NC",,,"North Carolina","37",,,,,,,,,,,,,,,,,,,"04000US37","North Carolina",43326,"North Carolina",370
+"G380","2010","ND",,,"North Dakota","38",,,,,,,,,,,,,,,,,,,"04000US38","North Dakota",48670,"North Dakota",1575
+"G390","2010","OH",,,"Ohio","39",,,,,,,,,,,,,,,,,,,"04000US39","Ohio",45090,"Ohio",294
+"G400","2010","OK",,,"Oklahoma","40",,,,,,,,,,,,,,,,,,,"04000US40","Oklahoma",42072,"Oklahoma",407
+"G410","2010","OR",,,"Oregon","41",,,,,,,,,,,,,,,,,,,"04000US41","Oregon",46560,"Oregon",542
+"G420","2010","PA",,,"Pennsylvania","42",,,,,,,,,,,,,,,,,,,"04000US42","Pennsylvania",49288,"Pennsylvania",433
+"G440","2010","RI",,,"Rhode Island","44",,,,,,,,,,,,,,,,,,,"04000US44","Rhode Island",52254,"Rhode Island",1244
+"G450","2010","SC",,,"South Carolina","45",,,,,,,,,,,,,,,,,,,"04000US45","South Carolina",42018,"South Carolina",424
+"G460","2010","SD",,,"South Dakota","46",,,,,,,,,,,,,,,,,,,"04000US46","South Dakota",45904,"South Dakota",1215
+"G470","2010","TN",,,"Tennessee","47",,,,,,,,,,,,,,,,,,,"04000US47","Tennessee",41461,"Tennessee",403
+"G480","2010","TX",,,"Texas","48",,,,,,,,,,,,,,,,,,,"04000US48","Texas",48615,"Texas",347
+"G490","2010","UT",,,"Utah","49",,,,,,,,,,,,,,,,,,,"04000US49","Utah",54744,"Utah",625
+"G500","2010","VT",,,"Vermont","50",,,,,,,,,,,,,,,,,,,"04000US50","Vermont",49406,"Vermont",1483
+"G510","2010","VA",,,"Virginia","51",,,,,,,,,,,,,,,,,,,"04000US51","Virginia",60674,"Virginia",457
+"G530","2010","WA",,,"Washington","53",,,,,,,,,,,,,,,,,,,"04000US53","Washington",55631,"Washington",550
+"G540","2010","WV",,,"West Virginia","54",,,,,,,,,,,,,,,,,,,"04000US54","West Virginia",38218,"West Virginia",896
+"G550","2010","WI",,,"Wisconsin","55",,,,,,,,,,,,,,,,,,,"04000US55","Wisconsin",49001,"Wisconsin",500
+"G560","2010","WY",,,"Wyoming","56",,,,,,,,,,,,,,,,,,,"04000US56","Wyoming",53512,"Wyoming",1894
+"G720","2010","PR",,,"Puerto Rico","72",,,,,,,,,,,,,,,,,,,"04000US72","Puerto Rico",18862,"Puerto Rico",324
